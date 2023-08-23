@@ -1,0 +1,59 @@
+id,provider_name,provider_id,segment_name,country
+8077387,KBM Group,957,KBM Group - France - Conexance Demographics | Lifestyle | Promising active youth | Wealthy young people living in large cities,france
+11120194,KBM Group,957,KBM Group - Germany - AZ Direct - Target Groups | Insurance | Target groups with Focus on Insurance | Individualistic about risk-taking,germany
+11120238,KBM Group,957,KBM Group - Germany - AZ Direct - Target Groups | Insurance | Target groups with Focus on Insurance | Job Starter,germany
+11120193,KBM Group,957,KBM Group - Germany - AZ Direct - Target Groups | Insurance | Target groups with Focus on Insurance | Social security-oriented people,germany
+11119973,KBM Group,957,KBM Group - Germany - AZ Direct | AZ Finance | Income | High Income,germany
+11119903,KBM Group,957,KBM Group - Germany - AZ Direct | AZ Finance | Income | Low Income,germany
+11119920,KBM Group,957,KBM Group - Germany - AZ Direct | AZ Finance | Income | Medium Income,germany
+11119911,KBM Group,957,KBM Group - Germany - AZ Direct | AZ Sociodemographics | Building size | 1 Household in the Building,germany
+11119994,KBM Group,957,KBM Group - Germany - AZ Direct | AZ Sociodemographics | Building size | 2 Households in the Building,germany
+11120013,KBM Group,957,KBM Group - Germany - AZ Direct | AZ Sociodemographics | Building size | 3-5 Households in the Building,germany
+11120012,KBM Group,957,KBM Group - Germany - AZ Direct | AZ Sociodemographics | Building size | 6-10 Households in the Building,germany
+11120016,KBM Group,957,KBM Group - Germany - AZ Direct | AZ Sociodemographics | Building size | >10 Households in the Building,germany
+11120018,KBM Group,957,KBM Group - Germany - AZ Direct | AZ Sociodemographics | Quality of residential area | Good Residential Area,germany
+11120094,KBM Group,957,KBM Group - Germany - AZ Direct | AZ Sociodemographics | Quality of residential area | Very good Residential Area,germany
+11120075,KBM Group,957,KBM Group - Germany - AZ Direct | AZ Sociodemographics | Quality of residential area | Very simple Residential Area,germany
+11053903,KBM Group,957,KBM Group - Germany - microm Data | Demographic Data | Income | Average Household Income,germany
+11053913,KBM Group,957,KBM Group - Germany - microm Data | Demographic Data | Income | High Household Income,germany
+11053907,KBM Group,957,KBM Group - Germany - microm Data | Demographic Data | Income | Low Household Income,germany
+11054050,KBM Group,957,KBM Group - Germany - microm Data | microm Typology  - Neighbourhood Types | Group D: Inner-city Problem Areas | Social Housing and Ordinary Apartment Houses,germany
+11054081,KBM Group,957,KBM Group - Germany - microm Data | microm Typology  - Neighbourhood Types | Group E: High Rises and Simple Tenements | Areas of Social Focus,germany
+11054104,KBM Group,957,KBM Group - Germany - microm Data | microm Typology  - Neighbourhood Types | Group E: High Rises and Simple Tenements | Older Social Housing,germany
+11054077,KBM Group,957,KBM Group - Germany - microm Data | microm Typology  - Neighbourhood Types | Group F: Pensioners in Simple Post-war Buildings | Common People in Tenements,germany
+11054084,KBM Group,957,KBM Group - Germany - microm Data | microm Typology  - Neighbourhood Types | Group F: Pensioners in Simple Post-war Buildings | Common Single Pensioners,germany
+11054057,KBM Group,957,KBM Group - Germany - microm Data | microm Typology  - Neighbourhood Types | Group F: Pensioners in Simple Post-war Buildings | Middle Class in Older Districts,germany
+11054085,KBM Group,957,KBM Group - Germany - microm Data | microm Typology  - Neighbourhood Types | Group H: Workers in Small Towns | Socially Weak Small-Towners,germany
+11054245,KBM Group,957,KBM Group - Germany - Panadress Demographics | Demographic Data | Income | above average,germany
+11054239,KBM Group,957,KBM Group - Germany - Panadress Demographics | Demographic Data | Income | average,germany
+11054246,KBM Group,957,KBM Group - Germany - Panadress Demographics | Demographic Data | Income | below average,germany
+11054253,KBM Group,957,KBM Group - Germany - Panadress Demographics | Demographic Data | Income | strongly above average,germany
+11054254,KBM Group,957,KBM Group - Germany - Panadress Demographics | Demographic Data | Income | strongly below average,germany
+11053701,KBM Group,957,KBM Group - Germany - Schober | Demographics | Income (in classes) | ,germany
+11053606,KBM Group,957,KBM Group - Germany - Schober | Demographics | Income (in classes) | 1.300 - 2.600,germany
+11053590,KBM Group,957,KBM Group - Germany - Schober | Demographics | Income (in classes) | 2.600 - 3.600,germany
+11053626,KBM Group,957,KBM Group - Germany - Schober | Demographics | Income (in classes) | 3.600 - 5.000,germany
+11053735,KBM Group,957,KBM Group - Germany - Schober | Demographics | Income (in classes) | >5.000,germany
+11053584,KBM Group,957,KBM Group - Germany - Schober | Finance | Insurance superconsumer,germany
+11120095,KBM Group,957,KBM Group - Germany - AZ Direct | AZ Sociodemographics | Family type | Families with adult Children,germany
+11120118,KBM Group,957,KBM Group - Germany - AZ Direct | AZ Sociodemographics | Family type | Single Parents with adult Children,germany
+11120143,KBM Group,957,KBM Group - Germany - AZ Direct | AZ Sociodemographics | Family type | Single Parents with Teenager,germany
+11120145,KBM Group,957,KBM Group - Germany - AZ Direct | AZ Sociodemographics | Family type | Young single Parents,germany
+11119874,KBM Group,957,KBM Group - Germany - AZ Direct | AZ Sociodemographics | Quality of residential area | Household with Children,germany
+11119871,KBM Group,957,KBM Group - Germany - AZ Direct | AZ Sociodemographics | Quality of residential area | Household without Children,germany
+11053905,KBM Group,957,KBM Group - Germany - microm Data | Demographic Data | Children | Houses with Average Share of Children,germany
+11053908,KBM Group,957,KBM Group - Germany - microm Data | Demographic Data | Children | Houses with High Share of Children,germany
+11053909,KBM Group,957,KBM Group - Germany - microm Data | Demographic Data | Children | Houses with Low Share of Children,germany
+11053915,KBM Group,957,KBM Group - Germany - microm Data | Demographic Data | microm Life Period | Families with Children,germany
+11054083,KBM Group,957,KBM Group - Germany - microm Data | Demographic Data | microm Life Period | Young Families with Children,germany
+11053713,KBM Group,957,KBM Group - Germany - Schober | Demographics | Number of children | 1 Child,germany
+11053731,KBM Group,957,KBM Group - Germany - Schober | Demographics | Number of children | 2 Children,germany
+11053779,KBM Group,957,KBM Group - Germany - Schober | Demographics | Number of children | 3 Children,germany
+11053894,KBM Group,957,KBM Group - Germany - Schober | Demographics | Number of children | 4 And More Children,germany
+11119912,KBM Group,957,KBM Group - Germany - AZ Direct | Psychological Values | Psychological Values | Traditional - high affinity,germany
+11119863,KBM Group,957,KBM Group - Germany - AZ Direct | Psychological Values | Psychological Values | Traditional - low affinity,germany
+11053918,KBM Group,957,KBM Group - Germany - microm Data | microm Cars and Mobility | Car Owner Typology | Conservative Lower Middle-Class Driver,germany
+11053934,KBM Group,957,KBM Group - Germany - microm Data | microm Geo Milieus | Established Conservative milieu,germany
+11053958,KBM Group,957,KBM Group - Germany - microm Data | microm Geo Milieus | Liberal Intellectual milieu,germany
+11053935,KBM Group,957,KBM Group - Germany - microm Data | microm Geo Milieus | Traditional milieu,germany
+11054232,KBM Group,957,KBM Group - Germany - Panadress Demographics | Generations | Traditionalists | Traditionalists,germany

@@ -1,0 +1,65 @@
+id,provider_name,provider_id,segment_name,country
+8614348,Nielsen Marketing Cloud,39,Experian FR - Auto - Manufacturer - Car Positioning - Luxury (Exelate),france
+2638987,Nielsen Marketing Cloud,39,Experian FR - Mosaic - Blue-collar Heritage - Thrifty Young Parents in Social Housing (Exelate),france
+2638992,Nielsen Marketing Cloud,39,Experian FR - Mosaic - Connected Cosmopolites - Single Parents in Social Housing (Exelate),france
+2638993,Nielsen Marketing Cloud,39,Experian FR - Mosaic - Day-to-day Strugglers (Exelate),france
+2638995,Nielsen Marketing Cloud,39,"Experian FR - Mosaic - Day-to-day Strugglers - Singles, Unemployment and Social Housing (Exelate)",france
+2639026,Nielsen Marketing Cloud,39,Experian FR - Mosaic - Traditional Countryside - Retirement and Widows in the Countryside (Exelate),france
+2639028,Nielsen Marketing Cloud,39,Experian FR - Mosaic - Wealthy Suburbs (Exelate),france
+2639029,Nielsen Marketing Cloud,39,Experian FR - Mosaic - Wealthy Suburbs - Big Families in Comfort (Exelate),france
+2639030,Nielsen Marketing Cloud,39,Experian FR - Mosaic - Wealthy Suburbs - Digital Families and Income (Exelate),france
+2639031,Nielsen Marketing Cloud,39,"Experian FR - Mosaic - Wealthy Suburbs - Mature Couples, Comfort and Financial Assets (Exelate)",france
+2639032,Nielsen Marketing Cloud,39,Experian FR - Mosaic - Wealthy Suburbs - Movie Culture and Hard Discount (Exelate),france
+2639033,Nielsen Marketing Cloud,39,Experian FR - Mosaic - Wealthy Suburbs - Wealthy Eco-friendly Seniors (Exelate),france
+25279588,Nielsen Marketing Cloud,39,MSFT - Surface - FR - Income,france
+20725798,Nielsen Marketing Cloud,39,Nielsen France - Social - Finance - Credit & Lending,france
+18648921,Nielsen Marketing Cloud,39,Nielsen France - Social - Jobs & Education - Job Seekers,france
+18649007,Nielsen Marketing Cloud,39,Nielsen France - Social - Shopping - Luxury Shopper,france
+2167399,Nielsen Marketing Cloud,39,Semasio - DE - Demographic - Income - Between 2000 euros and 4000 euros (Exelate),germany
+2167397,Nielsen Marketing Cloud,39,Semasio - DE - Demographic - Income - Under 2000 euros (Exelate),germany
+2167398,Nielsen Marketing Cloud,39,Semasio - DE - Demographic - Income - Up to 4000 euros (Exelate),germany
+8255374,Nielsen Marketing Cloud,39,Experian SP - Finance - Credit Card Frequency Used - 2-3 Time a Month (Exelate),spain
+8255375,Nielsen Marketing Cloud,39,Experian SP - Finance - Credit Card Frequency Used - Daily Used (Exelate),spain
+8255376,Nielsen Marketing Cloud,39,Experian SP - Finance - Credit Card Frequency Used - Once a Month (Exelate),spain
+8255377,Nielsen Marketing Cloud,39,Experian SP - Finance - Credit Card Frequency Used - Once a Week (Exelate),spain
+8255382,Nielsen Marketing Cloud,39,Experian SP - Finance - New Credit - Under 6000 euros (Exelate),spain
+8255383,Nielsen Marketing Cloud,39,Experian SP - Finance - New Credit - Up to 15000 euros (Exelate),spain
+8255385,Nielsen Marketing Cloud,39,Experian SP - Finance - New Credit - Up to 6000 euros Under 15000 euros (Exelate),spain
+8255386,Nielsen Marketing Cloud,39,Experian SP - Finance - Number of Credit - 1 (Exelate),spain
+8255387,Nielsen Marketing Cloud,39,Experian SP - Finance - Number of Credit - Up To 2 (Exelate),spain
+8255392,Nielsen Marketing Cloud,39,Experian SP - Financial - Great Consumer of Credit and Cards (Exelate),spain
+8255395,Nielsen Marketing Cloud,39,Experian SP - Financial - Retirees Without Credit (Exelate),spain
+8255414,Nielsen Marketing Cloud,39,Experian SP - Insurance - Always Insured with Total Coverage (Exelate),spain
+8255419,Nielsen Marketing Cloud,39,Experian SP - Insurance - Compulsory Insurance (Exelate),spain
+8255420,Nielsen Marketing Cloud,39,Experian SP - Insurance - Compulsory Insurance and Health insurance (Exelate),spain
+8255424,Nielsen Marketing Cloud,39,Experian SP - Insurance - Great Insurance Consumers (Exelate),spain
+8255428,Nielsen Marketing Cloud,39,Experian SP - Insurance - Home Insurance - Full Coverage (Exelate),spain
+8255430,Nielsen Marketing Cloud,39,Experian SP - Insurance - Life Insurance - Accidents (Exelate),spain
+8255431,Nielsen Marketing Cloud,39,Experian SP - Insurance - Life Insurance - In Case of Death (Exelate),spain
+8255432,Nielsen Marketing Cloud,39,Experian SP - Insurance - Life Insurance - In Case of Death and Maturity (Exelate),spain
+8255433,Nielsen Marketing Cloud,39,Experian SP - Insurance - Maximum Coverage Insurance Consumer (Exelate),spain
+8255438,Nielsen Marketing Cloud,39,Experian SP - Insurance - Private Medical - All Expenses Paid by the Insurance (Exelate),spain
+8255439,Nielsen Marketing Cloud,39,Experian SP - Insurance - Private Medical - Part Expenses Paid by the Insurance (Exelate),spain
+8255583,Nielsen Marketing Cloud,39,Experian SP - Telecomunications - Retirees No Connection (Exelate),spain
+18648965,Nielsen Marketing Cloud,39,Nielsen France - Social - Lifestyle - Weight Loss,france
+8255413,Nielsen Marketing Cloud,39,Experian SP - FMCG - Cigarettes Smoker (Exelate),spain
+2639011,Nielsen Marketing Cloud,39,Experian FR - Mosaic - Parisian Elites - Promising White Collar and First Kids (Exelate),france
+2639025,Nielsen Marketing Cloud,39,Experian FR - Mosaic - Traditional Countryside - Agricultural Workers with Children (Exelate),france
+2639043,Nielsen Marketing Cloud,39,"Experian FR - Mosaic - Young Active Families - Single Parents, Sports and Consumption (Exelate)",france
+2639045,Nielsen Marketing Cloud,39,"Experian FR - Mosaic - Young Active Families - Young Parents, Leisure Equipment and TV (Exelate)",france
+3584447,Nielsen Marketing Cloud,39,Experian FR - Presence of Children - Ages : 11-14 (Exelate),france
+3584448,Nielsen Marketing Cloud,39,Experian FR - Presence of Children - Ages : 4-10 (Exelate),france
+3584446,Nielsen Marketing Cloud,39,Experian FR - Presence of Children - Ages : under 18 (Exelate),france
+3584449,Nielsen Marketing Cloud,39,Experian FR - Presence of Children - Ages : under 4 (Exelate),france
+2166798,Nielsen Marketing Cloud,39,Semasio - DE - Demographic - Size of household - with kids (Exelate),germany
+2166799,Nielsen Marketing Cloud,39,Semasio - DE - Demographic - Size of household - without kids (Exelate),germany
+2166819,Nielsen Marketing Cloud,39,Semasio - DE - Interest - Family and Parenting (Exelate),germany
+2638996,Nielsen Marketing Cloud,39,"Experian FR - Mosaic - Day-to-day Strugglers - Uncertainty, Unncessary Expenses and TV (Exelate)",france
+8255396,Nielsen Marketing Cloud,39,Experian SP - Financial - Unqualified Credit Consumer (Exelate),spain
+2638986,Nielsen Marketing Cloud,39,Experian FR - Mosaic - Blue-collar Heritage - Families in Traditional Mining and Coal Industries (Exelate),france
+2639005,Nielsen Marketing Cloud,39,"Experian FR - Mosaic - Mature Couples and Seniors - Mature Couples, Comfort and Tradition (Exelate)",france
+2639024,Nielsen Marketing Cloud,39,Experian FR - Mosaic - Traditional Countryside (Exelate),france
+8255348,Nielsen Marketing Cloud,39,Experian SP - Automotive - Traditional Culture (Exelate),spain
+8255349,Nielsen Marketing Cloud,39,Experian SP - Automotive - Traditional Rural (Exelate),spain
+8255453,Nielsen Marketing Cloud,39,Experian SP - Mosaic - Industry - Traditional Industry (Exelate),spain
+8255483,Nielsen Marketing Cloud,39,Experian SP - Mosaic - Rural Areas - Traditional Rural (Exelate),spain

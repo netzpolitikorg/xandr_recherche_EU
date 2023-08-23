@@ -1,0 +1,79 @@
+id,provider_name,provider_id,segment_name,country
+24642854,Greenhouse Group B.V.,10690,gh-nl_gps_xandr_gh_specific_household-income-2-times-modal-or-more_high_display_default,netherlands
+24642855,Greenhouse Group B.V.,10690,gh-nl_gps_xandr_gh_specific_household-income-2-times-modal-or-more_low_display_default,netherlands
+24642856,Greenhouse Group B.V.,10690,gh-nl_gps_xandr_gh_specific_household-income-2-times-modal-or-more_medium_display_default,netherlands
+24642857,Greenhouse Group B.V.,10690,gh-nl_gps_xandr_gh_specific_household-income-above-modal-till-2-times-modal_high_display_default,netherlands
+24642858,Greenhouse Group B.V.,10690,gh-nl_gps_xandr_gh_specific_household-income-above-modal-till-2-times-modal_low_display_default,netherlands
+24642859,Greenhouse Group B.V.,10690,gh-nl_gps_xandr_gh_specific_household-income-above-modal-till-2-times-modal_medium_display_default,netherlands
+24642860,Greenhouse Group B.V.,10690,gh-nl_gps_xandr_gh_specific_household-income-below-modal_high_display_default,netherlands
+24642861,Greenhouse Group B.V.,10690,gh-nl_gps_xandr_gh_specific_household-income-below-modal_low_display_default,netherlands
+24642862,Greenhouse Group B.V.,10690,gh-nl_gps_xandr_gh_specific_household-income-below-modal_medium_display_default,netherlands
+24642863,Greenhouse Group B.V.,10690,gh-nl_gps_xandr_gh_specific_household-income-modal_high_display_default,netherlands
+24642864,Greenhouse Group B.V.,10690,gh-nl_gps_xandr_gh_specific_household-income-modal_low_display_default,netherlands
+24642865,Greenhouse Group B.V.,10690,gh-nl_gps_xandr_gh_specific_household-income-modal_medium_display_default,netherlands
+24643107,Greenhouse Group B.V.,10690,gh-nl_non-gps_xandr_gh_specific_household-income-2-times-modal-or-more_high_display_default,netherlands
+24643108,Greenhouse Group B.V.,10690,gh-nl_non-gps_xandr_gh_specific_household-income-2-times-modal-or-more_low_display_default,netherlands
+24643109,Greenhouse Group B.V.,10690,gh-nl_non-gps_xandr_gh_specific_household-income-2-times-modal-or-more_medium_display_default,netherlands
+24643110,Greenhouse Group B.V.,10690,gh-nl_non-gps_xandr_gh_specific_household-income-above-modal-till-2-times-modal_high_display_default,netherlands
+24643111,Greenhouse Group B.V.,10690,gh-nl_non-gps_xandr_gh_specific_household-income-above-modal-till-2-times-modal_low_display_default,netherlands
+24643112,Greenhouse Group B.V.,10690,gh-nl_non-gps_xandr_gh_specific_household-income-above-modal-till-2-times-modal_medium_display_default,netherlands
+24643113,Greenhouse Group B.V.,10690,gh-nl_non-gps_xandr_gh_specific_household-income-below-modal_high_display_default,netherlands
+24643114,Greenhouse Group B.V.,10690,gh-nl_non-gps_xandr_gh_specific_household-income-below-modal_low_display_default,netherlands
+24643115,Greenhouse Group B.V.,10690,gh-nl_non-gps_xandr_gh_specific_household-income-below-modal_medium_display_default,netherlands
+24643116,Greenhouse Group B.V.,10690,gh-nl_non-gps_xandr_gh_specific_household-income-modal_high_display_default,netherlands
+24643117,Greenhouse Group B.V.,10690,gh-nl_non-gps_xandr_gh_specific_household-income-modal_low_display_default,netherlands
+24643118,Greenhouse Group B.V.,10690,gh-nl_non-gps_xandr_gh_specific_household-income-modal_medium_display_default,netherlands
+24642791,Greenhouse Group B.V.,10690,gh-nl_gps_xandr_gh_specific_household-composition-family-with-children-oldest-child- 6-11 _high_display_default,netherlands
+24642792,Greenhouse Group B.V.,10690,gh-nl_gps_xandr_gh_specific_household-composition-family-with-children-oldest-child- 6-11 _low_display_default,netherlands
+24642793,Greenhouse Group B.V.,10690,gh-nl_gps_xandr_gh_specific_household-composition-family-with-children-oldest-child- 6-11 _medium_display_default,netherlands
+24642794,Greenhouse Group B.V.,10690,gh-nl_gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-0-5 _high_display_default,netherlands
+24642795,Greenhouse Group B.V.,10690,gh-nl_gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-0-5 _low_display_default,netherlands
+24642796,Greenhouse Group B.V.,10690,gh-nl_gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-0-5 _medium_display_default,netherlands
+24642797,Greenhouse Group B.V.,10690,gh-nl_gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-12-17_high_display_default,netherlands
+24642798,Greenhouse Group B.V.,10690,gh-nl_gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-12-17_low_display_default,netherlands
+24642799,Greenhouse Group B.V.,10690,gh-nl_gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-12-17_medium_display_default,netherlands
+24642800,Greenhouse Group B.V.,10690,gh-nl_gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-18+_high_display_default,netherlands
+24642801,Greenhouse Group B.V.,10690,gh-nl_gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-18+_low_display_default,netherlands
+24642802,Greenhouse Group B.V.,10690,gh-nl_gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-18+_medium_display_default,netherlands
+24642806,Greenhouse Group B.V.,10690,gh-nl_gps_xandr_gh_specific_household-composition-single-or-couple-without-children-35-49_high_display_default,netherlands
+24642807,Greenhouse Group B.V.,10690,gh-nl_gps_xandr_gh_specific_household-composition-single-or-couple-without-children-35-49_low_display_default,netherlands
+24642808,Greenhouse Group B.V.,10690,gh-nl_gps_xandr_gh_specific_household-composition-single-or-couple-without-children-35-49_medium_display_default,netherlands
+24642803,Greenhouse Group B.V.,10690,gh-nl_gps_xandr_gh_specific_household-composition-single-or-couple-without-children-35-_high_display_default,netherlands
+24642804,Greenhouse Group B.V.,10690,gh-nl_gps_xandr_gh_specific_household-composition-single-or-couple-without-children-35-_low_display_default,netherlands
+24642805,Greenhouse Group B.V.,10690,gh-nl_gps_xandr_gh_specific_household-composition-single-or-couple-without-children-35-_medium_display_default,netherlands
+24642809,Greenhouse Group B.V.,10690,gh-nl_gps_xandr_gh_specific_household-composition-single-or-couple-without-children-50-64_high_display_default,netherlands
+24642810,Greenhouse Group B.V.,10690,gh-nl_gps_xandr_gh_specific_household-composition-single-or-couple-without-children-50-64_low_display_default,netherlands
+24642811,Greenhouse Group B.V.,10690,gh-nl_gps_xandr_gh_specific_household-composition-single-or-couple-without-children-50-64_medium_display_default,netherlands
+24642812,Greenhouse Group B.V.,10690,gh-nl_gps_xandr_gh_specific_household-composition-single-or-couple-without-children-65+_high_display_default,netherlands
+24642813,Greenhouse Group B.V.,10690,gh-nl_gps_xandr_gh_specific_household-composition-single-or-couple-without-children-65+_low_display_default,netherlands
+24642814,Greenhouse Group B.V.,10690,gh-nl_gps_xandr_gh_specific_household-composition-single-or-couple-without-children-65+_medium_display_default,netherlands
+24642866,Greenhouse Group B.V.,10690,gh-nl_gps_xandr_gh_specific_household-kids-none_high_display_default,netherlands
+24642867,Greenhouse Group B.V.,10690,gh-nl_gps_xandr_gh_specific_household-kids-none_low_display_default,netherlands
+24642868,Greenhouse Group B.V.,10690,gh-nl_gps_xandr_gh_specific_household-kids-none_medium_display_default,netherlands
+24642869,Greenhouse Group B.V.,10690,gh-nl_gps_xandr_gh_specific_household-kids-one-or-more_high_display_default,netherlands
+24642870,Greenhouse Group B.V.,10690,gh-nl_gps_xandr_gh_specific_household-kids-one-or-more_low_display_default,netherlands
+24642871,Greenhouse Group B.V.,10690,gh-nl_gps_xandr_gh_specific_household-kids-one-or-more_medium_display_default,netherlands
+24643044,Greenhouse Group B.V.,10690,gh-nl_non-gps_xandr_gh_specific_household-composition-family-with-children-oldest-child- 6-11 _high_display_default,netherlands
+24643045,Greenhouse Group B.V.,10690,gh-nl_non-gps_xandr_gh_specific_household-composition-family-with-children-oldest-child- 6-11 _low_display_default,netherlands
+24643046,Greenhouse Group B.V.,10690,gh-nl_non-gps_xandr_gh_specific_household-composition-family-with-children-oldest-child- 6-11 _medium_display_default,netherlands
+24643047,Greenhouse Group B.V.,10690,gh-nl_non-gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-0-5 _high_display_default,netherlands
+24643048,Greenhouse Group B.V.,10690,gh-nl_non-gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-0-5 _low_display_default,netherlands
+24643049,Greenhouse Group B.V.,10690,gh-nl_non-gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-0-5 _medium_display_default,netherlands
+24643050,Greenhouse Group B.V.,10690,gh-nl_non-gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-12-17_high_display_default,netherlands
+24643051,Greenhouse Group B.V.,10690,gh-nl_non-gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-12-17_low_display_default,netherlands
+24643052,Greenhouse Group B.V.,10690,gh-nl_non-gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-12-17_medium_display_default,netherlands
+24643053,Greenhouse Group B.V.,10690,gh-nl_non-gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-18+_high_display_default,netherlands
+24643054,Greenhouse Group B.V.,10690,gh-nl_non-gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-18+_low_display_default,netherlands
+24643055,Greenhouse Group B.V.,10690,gh-nl_non-gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-18+_medium_display_default,netherlands
+24643059,Greenhouse Group B.V.,10690,gh-nl_non-gps_xandr_gh_specific_household-composition-single-or-couple-without-children-35-49_high_display_default,netherlands
+24643060,Greenhouse Group B.V.,10690,gh-nl_non-gps_xandr_gh_specific_household-composition-single-or-couple-without-children-35-49_low_display_default,netherlands
+24643061,Greenhouse Group B.V.,10690,gh-nl_non-gps_xandr_gh_specific_household-composition-single-or-couple-without-children-35-49_medium_display_default,netherlands
+24643056,Greenhouse Group B.V.,10690,gh-nl_non-gps_xandr_gh_specific_household-composition-single-or-couple-without-children-35-_high_display_default,netherlands
+24643057,Greenhouse Group B.V.,10690,gh-nl_non-gps_xandr_gh_specific_household-composition-single-or-couple-without-children-35-_low_display_default,netherlands
+24643058,Greenhouse Group B.V.,10690,gh-nl_non-gps_xandr_gh_specific_household-composition-single-or-couple-without-children-35-_medium_display_default,netherlands
+24643062,Greenhouse Group B.V.,10690,gh-nl_non-gps_xandr_gh_specific_household-composition-single-or-couple-without-children-50-64_high_display_default,netherlands
+24643063,Greenhouse Group B.V.,10690,gh-nl_non-gps_xandr_gh_specific_household-composition-single-or-couple-without-children-50-64_low_display_default,netherlands
+24643064,Greenhouse Group B.V.,10690,gh-nl_non-gps_xandr_gh_specific_household-composition-single-or-couple-without-children-50-64_medium_display_default,netherlands
+24643065,Greenhouse Group B.V.,10690,gh-nl_non-gps_xandr_gh_specific_household-composition-single-or-couple-without-children-65+_high_display_default,netherlands
+24643066,Greenhouse Group B.V.,10690,gh-nl_non-gps_xandr_gh_specific_household-composition-single-or-couple-without-children-65+_low_display_default,netherlands
+24643067,Greenhouse Group B.V.,10690,gh-nl_non-gps_xandr_gh_specific_household-composition-single-or-couple-without-children-65+_medium_display_default,netherlands

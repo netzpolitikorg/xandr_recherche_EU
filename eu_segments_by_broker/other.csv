@@ -1,0 +1,49 @@
+id,category,country,segment_name,hit,provider_name,provider_id,name_processed
+15219277,Finanzstatus,spain,155868574126206_Custom_Grupo1_Iab_HighIncome-IAB_DTM_ES,income,Datmean (Data Provider),9730,155868574126206_custom_grupo1_iab_highincome-iab_dtm_es
+15219434,Finanzstatus,spain,155868574126206_Custom_Grupo1_Iab_HighIncome-IAB_DTM_ES,income,Datmean (Data Provider),9730,155868574126206_custom_grupo1_iab_highincome-iab_dtm_es
+24573929,Finanzstatus,spain,16051926082909528026_CUSTOM_Amex_Matterkind_Highincome_DTM_ES,income,Datmean (Data Provider),9730,16051926082909528026_custom_amex_matterkind_highincome_dtm_es
+25486346,Kinder,netherlands,gh-nl_all_xandr_ds_all_demographic_Winter-Outerwear-for-Children_all_25393121,child(ren)?,Digiseg,9999,gh-nl_all_xandr_ds_all_demographic_winter-outerwear-for-children_all_25393121
+24625150,Religion,portugal,Lifestyle > Faith > UK & Portugal Christianity - Extended Scale (Dstillery),faith,Dstillery,9415,lifestyle > faith > uk & portugal christianity - extended scale
+24625040,Religion,portugal,Lifestyle > Faith > UK & Portugal Christianity - Extreme Confidence (Dstillery),faith,Dstillery,9415,lifestyle > faith > uk & portugal christianity - extreme confidence
+10047331,Religion,greece,Epsilon: Demographics > Religion > Greek Orthodox,religio(n|ous),"Epsilon Data Management, LLC.",7246,epsilon: demographics > religion > greek orthodox
+11507350,Religion,greece,180byTWO > B2C > Web > Religion > Greek Orthodox,religio(n|ous),LiveRamp Data Store,8082,180bytwo > b2c > web > religion > greek orthodox
+9899640,Religion,greece,180byTWO > Cookie > B2C > Religion > Greek Orthodox,religio(n|ous),LiveRamp Data Store,8082,180bytwo > cookie > b2c > religion > greek orthodox
+9910923,Religion,greece,BusinessWatch Network > B2C > Religion > Greek Orthodox,religio(n|ous),LiveRamp Data Store,8082,businesswatch network > b2c > religion > greek orthodox
+18502938,Religion,greece,Datastream Group>Religion>Greek Orthodox,religio(n|ous),LiveRamp Data Store,8082,datastream group>religion>greek orthodox
+9900856,Religion,greece,Infogroup > B2C > Demographics > Religion > Greek Orthodox,religio(n|ous),LiveRamp Data Store,8082,infogroup > b2c > demographics > religion > greek orthodox
+9905053,Religion,greece,Webbula > Demographic > Individual > Religion > Greek Orthodox,religio(n|ous),LiveRamp Data Store,8082,webbula > demographic > individual > religion > greek orthodox
+14760010,politische Meinungen,germany,Acxiom Germany > Consuming & Lifestyle > Charity Cause > 06: Environment,environment(al)?,LiveRamp Data Store,8082,acxiom germany > consuming & lifestyle > charity cause > 06: environment
+15660796,Kinder,slovakia,SK-parents_PRGMT-SK-toys,parent(hood)?,"Oracle Customs (1st, BlueKai, Datalogix, AddThis)",1781,sk-parents_prgmt-sk-toys
+6647670,Kinder,spain,Familyes > Maternity (EN) Maternidad (ES) (Private-4112) (Retargetly),matern(al|ity),Retargetly,4054,familyes > maternity (en) maternidad (es) (private-4112)
+26357862,Finanzstatus,netherlands,Dutchess_Count_Philly_income_75K_device_cookie,income,Semcasting (Data Provider),1478,dutchess_count_philly_income_75k_device_cookie
+25995893,Religion,greece,Skydeo > Demographics > Religion > Greek Orthodox,religio(n|ous),"Skydeo, Inc.",10294,skydeo > demographics > religion > greek orthodox
+19266327,Finanzstatus,germany,"Custom Segments > Schober B2B Mobile Data Germany - Food, Luxury Food and Beverages - 1st and 2nd Management Level - GPS Data",luxury,The ADEX GmbH,2245,"custom segments > schober b2b mobile data germany - food, luxury food and beverages - 1st and 2nd management level - gps data"
+19266300,Finanzstatus,germany,"Custom Segments > Schober B2B Mobile Data Germany - Physicians, Healthcare and Social Services - 1st and 2nd Management Level - GPS Data",social,The ADEX GmbH,2245,"custom segments > schober b2b mobile data germany - physicians, healthcare and social services - 1st and 2nd management level - gps data"
+15669630,Gesundheit,germany,Custom Segments > ADEX|Germany|gutefrage|Interests|HealthyLiving|AlternativeMedicine,medic(al|ine),The ADEX GmbH,2245,custom segments > adex|germany|gutefrage|interests|healthyliving|alternativemedicine
+15669634,Gesundheit,germany,Custom Segments > ADEX|Germany|gutefrage|Interests|HealthyLiving|WeightLoss,(over)?weight( loss)?,The ADEX GmbH,2245,custom segments > adex|germany|gutefrage|interests|healthyliving|weightloss
+15669616,Kinder,germany,Custom Segments > ADEX|Germany|gutefrage|Interests|FamilyAndRelationships|Parenting,parent(hood)?,The ADEX GmbH,2245,custom segments > adex|germany|gutefrage|interests|familyandrelationships|parenting
+16680261,Kinder,germany,Custom Segments > Schober Mobile Data Germany - Families with Children - GPS Data,child(ren)?,The ADEX GmbH,2245,custom segments > schober mobile data germany - families with children - gps data
+15669666,Religion,germany,Custom Segments > ADEX|Germany|gutefrage|Interests|ReligionAndSpirituality,religio(n|ous),The ADEX GmbH,2245,custom segments > adex|germany|gutefrage|interests|religionandspirituality
+19266320,Religion,germany,Custom Segments > Schober B2B Mobile Data Germany - Churches and Religious Groups - 1st and 2nd Management Level - GPS Data,church,The ADEX GmbH,2245,custom segments > schober b2b mobile data germany - churches and religious groups - 1st and 2nd management level - gps data
+15035558,Gesundheit,france,The Weather Channel (IBM) > France Weather Conditions > Arthritis Symptoms,arthritis,"The Weather Channel, LLC",2001,the weather channel (ibm) > france weather conditions > arthritis symptoms
+15035559,Gesundheit,france,The Weather Channel (IBM) > France Weather Conditions > Asthma Symptoms,asthma,"The Weather Channel, LLC",2001,the weather channel (ibm) > france weather conditions > asthma symptoms
+15035561,Gesundheit,france,The Weather Channel (IBM) > France Weather Conditions > Migraines Symptoms,migraine,"The Weather Channel, LLC",2001,the weather channel (ibm) > france weather conditions > migraines symptoms
+15036211,Gesundheit,germany,The Weather Channel (IBM) > Germany Weather Conditions > Arthritis Symptoms,arthritis,"The Weather Channel, LLC",2001,the weather channel (ibm) > germany weather conditions > arthritis symptoms
+15036212,Gesundheit,germany,The Weather Channel (IBM) > Germany Weather Conditions > Asthma Symptoms,asthma,"The Weather Channel, LLC",2001,the weather channel (ibm) > germany weather conditions > asthma symptoms
+7654229,Gesundheit,germany,The Weather Channel (IBM) > Germany Weather Conditions > Migraines Symptoms,migraine,"The Weather Channel, LLC",2001,the weather channel (ibm) > germany weather conditions > migraines symptoms
+15035704,Gesundheit,spain,The Weather Channel (IBM) > Spain Weather Conditions > Arthritis Symptoms,arthritis,"The Weather Channel, LLC",2001,the weather channel (ibm) > spain weather conditions > arthritis symptoms
+15035705,Gesundheit,spain,The Weather Channel (IBM) > Spain Weather Conditions > Asthma Symptoms,asthma,"The Weather Channel, LLC",2001,the weather channel (ibm) > spain weather conditions > asthma symptoms
+15035707,Gesundheit,spain,The Weather Channel (IBM) > Spain Weather Conditions > Migraines Symptoms,migraine,"The Weather Channel, LLC",2001,the weather channel (ibm) > spain weather conditions > migraines symptoms
+20565498,Kinder,france,TruOptik>Captify>1stPartyData>LifeProfiles-GRANDS-PARENTS-France,parent(hood)?,Tru Optik (CTV),8808,truoptik>captify>1stpartydata>lifeprofiles-grands-parents-france
+20565481,Kinder,france,TruOptik>Captify>1stPartyData>LifeProfiles-JEUNESPARENTS-France,parent(hood)?,Tru Optik (CTV),8808,truoptik>captify>1stpartydata>lifeprofiles-jeunesparents-france
+20565491,Kinder,france,TruOptik>Captify>1stPartyData>LifeProfiles-PARENTADOMICILE-France,parent(hood)?,Tru Optik (CTV),8808,truoptik>captify>1stpartydata>lifeprofiles-parentadomicile-france
+20565583,Kinder,france,TruOptik>Captify>1stPartyData>LifeProfiles-PARENTS-France,parent(hood)?,Tru Optik (CTV),8808,truoptik>captify>1stpartydata>lifeprofiles-parents-france
+20565531,Kinder,france,TruOptik>Captify>1stPartyData>LifeProfiles-PARENTSD'ADOS-France,parent(hood)?,Tru Optik (CTV),8808,truoptik>captify>1stpartydata>lifeprofiles-parentsd'ados-france
+20565639,Kinder,france,TruOptik>Captify>1stPartyData>LifeProfiles-PARENTSD'ENFANTS-France,parent(hood)?,Tru Optik (CTV),8808,truoptik>captify>1stpartydata>lifeprofiles-parentsd'enfants-france
+13889597,Religion,greece,truoptik>webbula>demographics>religion > greek orthodox,religio(n|ous),Tru Optik (CTV),8808,truoptik>webbula>demographics>religion > greek orthodox
+21670314,Finanzstatus,spain,"Audience 78492, ES > Luxury",luxury,Weborama SA (Data Provider),1211,"audience 78492, es > luxury"
+21670342,Finanzstatus,spain,"Audience 78520, ES > Sport & luxury cars",luxury,Weborama SA (Data Provider),1211,"audience 78520, es > sport & luxury cars"
+21670217,Gesundheit,spain,"Audience 78463, ES > Cosmetic surgery",surgery,Weborama SA (Data Provider),1211,"audience 78463, es > cosmetic surgery"
+21669996,Kinder,spain,"Audience 78337, ES > Infants & children",child(ren)?,Weborama SA (Data Provider),1211,"audience 78337, es > infants & children"
+21670353,Kinder,spain,"Audience 78530, ES > Maternity",matern(al|ity),Weborama SA (Data Provider),1211,"audience 78530, es > maternity"
+21670329,politische Meinungen,spain,"Audience 78507, ES > Social & Environmental Sustainability",environment(al)?,Weborama SA (Data Provider),1211,"audience 78507, es > social & environmental sustainability"

@@ -1,0 +1,1242 @@
+[
+    {
+        "id": 15660796,
+        "category": "Kinder",
+        "country": "slovakia",
+        "segment_name": "SK-parents_PRGMT-SK-toys",
+        "filet": [
+            "parents"
+        ]
+    },
+    {
+        "id": 13714286,
+        "category": "Finanzstatus",
+        "country": "germany",
+        "segment_name": "AZ Direct > DE > Demographic > Social Status > low earners without orientation (adsquare)",
+        "filet": [
+            "Social Status",
+            "low earners without orientation"
+        ]
+    },
+    {
+        "id": 4074603,
+        "category": "Finanzstatus",
+        "country": "germany",
+        "segment_name": "International_EU - Germany Credit Level - Poor (Lotame)",
+        "filet": [
+            "Germany Credit Level",
+            "Poor"
+        ]
+    },
+    {
+        "id": 11054050,
+        "category": "Finanzstatus",
+        "country": "germany",
+        "segment_name": "KBM Group - Germany - microm Data | microm Typology  - Neighbourhood Types | Group D: Inner-city Problem Areas | Social Housing and Ordinary Apartment Houses",
+        "filet": [
+            "Neighbourhood Types",
+            "Inner-city Problem Areas",
+            "Social Housing and Ordinary Apartment Houses"
+        ]
+    },
+    {
+        "id": 25419978,
+        "category": "Gesundheit",
+        "country": "germany",
+        "segment_name": "Adsquare Data Alliance > DE > Place Visits > By Brand > Shopping > Consumer Goods > Specialty Store > Amplifon (adsquare)",
+        "filet": [
+            "Place Visits",
+            "Specialty Store",
+            "Amplifon"
+        ]
+    },
+    {
+        "id": 15669630,
+        "category": "Gesundheit",
+        "country": "germany",
+        "segment_name": "Custom Segments > ADEX|Germany|gutefrage|Interests|HealthyLiving|AlternativeMedicine",
+        "filet": [
+            "Interests",
+            "Healthy Living",
+            "Alternative Medicine"
+        ]
+    },
+    {
+        "id": 21790035,
+        "category": "Gesundheit",
+        "country": "germany",
+        "segment_name": "Eyeota - MiQ - DE Kantar Media TGI - Lifestyle - Has Tried To Give Up Smoking In Last 12 Months",
+        "filet": [
+            "Lifestyle",
+            "Has Tried To Give Up Smoking In Last 12 Months"
+        ]
+    },
+    {
+        "id": 13714011,
+        "category": "Kinder",
+        "country": "germany",
+        "segment_name": "AZ Direct > DE > Demographic > Family Type > young single parents  (adsquare)",
+        "filet": [
+            "Family Type",
+            "young single parents"
+        ]
+    },
+    {
+        "id": 11154135,
+        "category": "Kinder",
+        "country": "germany",
+        "segment_name": "Branded Data > Nordic Data Resources > Germany > Age of Children in Household > 12 - 17 Years (Super Target) (BlueKai)",
+        "filet": [
+            "Age of Children in Household",
+            "12 - 17 Years"
+        ]
+    },
+    {
+        "id": 11154821,
+        "category": "Kinder",
+        "country": "germany",
+        "segment_name": "Branded Data > Nordic Data Resources > Germany > Life Phases > Families with Toddlers or Young Kids (Super Target) (BlueKai)",
+        "filet": [
+            "Life Phases",
+            "Families with Toddlers or Young Kids"
+        ]
+    },
+    {
+        "id": 13714403,
+        "category": "pers\u00f6nliche Schw\u00e4chen",
+        "country": "germany",
+        "segment_name": "AZ Direct > DE > AZ Target Groups > Insurance > individualistic about risk-taking (adsquare)",
+        "filet": [
+            "Insurance",
+            "individualistic about risk-taking"
+        ]
+    },
+    {
+        "id": 4074651,
+        "category": "pers\u00f6nliche Schw\u00e4chen",
+        "country": "germany",
+        "segment_name": "International_EU - Germany Relationship Status - Divorced (Lotame)",
+        "filet": [
+            "Germany Relationship Status",
+            "Divorced"
+        ]
+    },
+    {
+        "id": 14760010,
+        "category": "politische Meinungen",
+        "country": "germany",
+        "segment_name": "Acxiom Germany > Consuming & Lifestyle > Charity Cause > 06: Environment",
+        "filet": [
+            "Consuming & Lifestyle",
+            "Charity Cause",
+            "Environment"
+        ]
+    },
+    {
+        "id": 3577258,
+        "category": "politische Meinungen",
+        "country": "germany",
+        "segment_name": "Eyeota - DE Experian - Sociodemographic - Consumer Typology - Conservative Values",
+        "filet": [
+            "Sociodemographic",
+            "Consumer Typology",
+            "Conservative Values"
+        ]
+    },
+    {
+        "id": 11053958,
+        "category": "politische Meinungen",
+        "country": "germany",
+        "segment_name": "KBM Group - Germany - microm Data | microm Geo Milieus | Liberal Intellectual milieu",
+        "filet": [
+            "Liberal Intellectual milieu"
+        ]
+    },
+    {
+        "id": 15669666,
+        "category": "religi\u00f6se oder weltanschauliche \u00dcberzeugungen",
+        "country": "germany",
+        "segment_name": "Custom Segments > ADEX|Germany|gutefrage|Interests|ReligionAndSpirituality",
+        "filet": [
+            "Interests",
+            "Religion And Spirituality"
+        ]
+    },
+    {
+        "id": 19266320,
+        "category": "religi\u00f6se oder weltanschauliche \u00dcberzeugungen",
+        "country": "germany",
+        "segment_name": "Custom Segments > Schober B2B Mobile Data Germany - Churches and Religious Groups - 1st and 2nd Management Level - GPS Data",
+        "filet": [
+            "Churches and Religious Groups",
+            "1st and 2nd Management Level"
+        ]
+    },
+    {
+        "id": 8255374,
+        "category": "Finanzstatus",
+        "country": "spain",
+        "segment_name": "Experian SP - Finance - Credit Card Frequency Used - 2-3 Time a Month (Exelate)",
+        "filet": [
+            "Credit Card Frequency Used",
+            "2-3 Time a Month"
+        ]
+    },
+    {
+        "id": 8255414,
+        "category": "Finanzstatus",
+        "country": "spain",
+        "segment_name": "Experian SP - Insurance - Always Insured with Total Coverage (Exelate)",
+        "filet": [
+            "Insurance",
+            "Always Insured with Total Coverage"
+        ]
+    },
+    {
+        "id": 22180788,
+        "category": "Finanzstatus",
+        "country": "spain",
+        "segment_name": "Eyeota - ES Experian - Sociodemographic - Mosaic Segmentation - D18 - Exposed Urban Families",
+        "filet": [
+            "Sociodemographic",
+            "Exposed Urban Families"
+        ]
+    },
+    {
+        "id": 21670217,
+        "category": "Gesundheit",
+        "country": "spain",
+        "segment_name": "Audience 78463, ES > Cosmetic surgery",
+        "filet": [
+            "Cosmetic surgery"
+        ]
+    },
+    {
+        "id": 13723775,
+        "category": "Gesundheit",
+        "country": "spain",
+        "segment_name": "GfK > ES > Purchasing Power for Retail Product Lines > Alcoholic beverages > 3: High (adsquare)",
+        "filet": [
+            "Purchasing Power for Retail Product Lines",
+            "Alcoholic beverages",
+            "High"
+        ]
+    },
+    {
+        "id": 18427948,
+        "category": "Gesundheit",
+        "country": "spain",
+        "segment_name": "zeotap > Spain > Interest > Health & Fitness > Menstrual Period & Ovulation (1)",
+        "filet": [
+            "Interest",
+            "Health & Fitness",
+            "Menstrual Period & Ovulation"
+        ]
+    },
+    {
+        "id": 13829211,
+        "category": "Kinder",
+        "country": "spain",
+        "segment_name": "Adsquare Data Alliance > ES > Interests > Family and Relationships > Mums with Babies (adsquare)",
+        "filet": [
+            "Interests",
+            "Family and Relationships",
+            "Mums with Babies"
+        ]
+    },
+    {
+        "id": 21669996,
+        "category": "Kinder",
+        "country": "spain",
+        "segment_name": "Audience 78337, ES > Infants & children",
+        "filet": [
+            "Infants & children"
+        ]
+    },
+    {
+        "id": 4071403,
+        "category": "Kinder",
+        "country": "spain",
+        "segment_name": "International_EU - Spain Parents of Toddlers (Lotame)",
+        "filet": [
+            "Spain Parents of Toddlers"
+        ]
+    },
+    {
+        "id": 20243998,
+        "category": "Sexualleben\/sexuelle Orientierung",
+        "country": "spain",
+        "segment_name": "zeotap > Spain > Interest > LGBT",
+        "filet": [
+            "Interest",
+            "LGBT"
+        ]
+    },
+    {
+        "id": 8255396,
+        "category": "pers\u00f6nliche Schw\u00e4chen",
+        "country": "spain",
+        "segment_name": "Experian SP - Financial - Unqualified Credit Consumer (Exelate)",
+        "filet": [
+            "Financial",
+            "Unqualified Credit Consumer"
+        ]
+    },
+    {
+        "id": 4071341,
+        "category": "pers\u00f6nliche Schw\u00e4chen",
+        "country": "spain",
+        "segment_name": "International_EU - Spain Relationship Status - Divorced (Lotame)",
+        "filet": [
+            "Spain Relationship Status",
+            "Divorced"
+        ]
+    },
+    {
+        "id": 21670329,
+        "category": "politische Meinungen",
+        "country": "spain",
+        "segment_name": "Audience 78507, ES > Social & Environmental Sustainability",
+        "filet": [
+            "Social & Environmental Sustainability"
+        ]
+    },
+    {
+        "id": 8255483,
+        "category": "politische Meinungen",
+        "country": "spain",
+        "segment_name": "Experian SP - Mosaic - Rural Areas - Traditional Rural (Exelate)",
+        "filet": [
+            "Rural Areas",
+            "Traditional Rural"
+        ]
+    },
+    {
+        "id": 4070328,
+        "category": "politische Meinungen",
+        "country": "spain",
+        "segment_name": "International_EU - Spain Environmentalism (Lotame)",
+        "filet": [
+            "Spain Environmentalism"
+        ]
+    },
+    {
+        "id": 4027893,
+        "category": "Kinder",
+        "country": "greece",
+        "segment_name": "International_EU - Greece Parenting (Lotame)",
+        "filet": [
+            "Greece Parenting"
+        ]
+    },
+    {
+        "id": 9899640,
+        "category": "religi\u00f6se oder weltanschauliche \u00dcberzeugungen",
+        "country": "greece",
+        "segment_name": "180byTWO > Cookie > B2C > Religion > Greek Orthodox",
+        "filet": [
+            "Religion",
+            "Greek Orthodox"
+        ]
+    },
+    {
+        "id": 24967428,
+        "category": "Finanzstatus",
+        "country": "france",
+        "segment_name": "Adsquare Data Alliance > FR > Demographics > Employment Status > Job Seeking (adsquare)",
+        "filet": [
+            "Employment Status",
+            "Job Seeking"
+        ]
+    },
+    {
+        "id": 2638995,
+        "category": "Finanzstatus",
+        "country": "france",
+        "segment_name": "Experian FR - Mosaic - Day-to-day Strugglers - Singles, Unemployment and Social Housing (Exelate)",
+        "filet": [
+            "Day-to-day Strugglers",
+            "Singles",
+            "Unemployment and Social Housing"
+        ]
+    },
+    {
+        "id": 21019417,
+        "category": "Finanzstatus",
+        "country": "france",
+        "segment_name": "Eyeota - FR Experian - Income - Over 80 000 Euros",
+        "filet": [
+            "Income",
+            "Over 80 000 Euros"
+        ]
+    },
+    {
+        "id": 13720353,
+        "category": "Gesundheit",
+        "country": "france",
+        "segment_name": "Fidall > FR > Retailers customers > WeightWatchers (adsquare)",
+        "filet": [
+            "Retailers customers",
+            "WeightWatchers"
+        ]
+    },
+    {
+        "id": 15035559,
+        "category": "Gesundheit",
+        "country": "france",
+        "segment_name": "The Weather Channel (IBM) > France Weather Conditions > Asthma Symptoms",
+        "filet": [
+            "France Weather Conditions",
+            "Asthma Symptoms"
+        ]
+    },
+    {
+        "id": 15035561,
+        "category": "Gesundheit",
+        "country": "france",
+        "segment_name": "The Weather Channel (IBM) > France Weather Conditions > Migraines Symptoms",
+        "filet": [
+            "France Weather Conditions",
+            "Migraines Symptoms"
+        ]
+    },
+    {
+        "id": 13227704,
+        "category": "Kinder",
+        "country": "france",
+        "segment_name": "Adsquare Data Alliance > FR > Interests > Family and Relationships > Mums with Babies (adsquare)",
+        "filet": [
+            "Family and Relationships",
+            "Mums with Babies"
+        ]
+    },
+    {
+        "id": 7521253,
+        "category": "Kinder",
+        "country": "france",
+        "segment_name": "Branded Data > Conexance > France - Conexance Demographics > Demographics > Age of Children > Child between 4-6 (BlueKai)",
+        "filet": [
+            "Demographics",
+            "Age of Children",
+            "Child between 4-6"
+        ]
+    },
+    {
+        "id": 21019320,
+        "category": "Kinder",
+        "country": "france",
+        "segment_name": "Eyeota - FR Experian - Children - 3 and more",
+        "filet": [
+            "Children",
+            "3 and more"
+        ]
+    },
+    {
+        "id": 8058099,
+        "category": "Kinder",
+        "country": "france",
+        "segment_name": "Mobilewalla > France > Life Stages > Young Mothers",
+        "filet": [
+            "Life Stages",
+            "Young Mothers"
+        ]
+    },
+    {
+        "id": 8573997,
+        "category": "Kinder",
+        "country": "france",
+        "segment_name": "Oracle Country-Specific Audiences > France (FR) > Life Stages and Events > Family and Children (Kids) > New Parents (BlueKai)",
+        "filet": [
+            "Family and Children",
+            "Kids",
+            "New Parents"
+        ]
+    },
+    {
+        "id": 18680687,
+        "category": "Kinder",
+        "country": "france",
+        "segment_name": "zeotap > France > Narrow Interest > Mums with teenagers",
+        "filet": [
+            "Mums with teenagers"
+        ]
+    },
+    {
+        "id": 2638996,
+        "category": "pers\u00f6nliche Schw\u00e4chen",
+        "country": "france",
+        "segment_name": "Experian FR - Mosaic - Day-to-day Strugglers - Uncertainty, Unncessary Expenses and TV (Exelate)",
+        "filet": [
+            "Day-to-day Strugglers",
+            "Uncertainty, Unncessary Expenses and TV"
+        ]
+    },
+    {
+        "id": 13717427,
+        "category": "pers\u00f6nliche Schw\u00e4chen",
+        "country": "france",
+        "segment_name": "Fidall > FR > Retailers customers > Sexy Center (adsquare)",
+        "filet": [
+            "Retailers customers",
+            "Sexy Center"
+        ]
+    },
+    {
+        "id": 4073729,
+        "category": "pers\u00f6nliche Schw\u00e4chen",
+        "country": "france",
+        "segment_name": "International_EU - France Relationship Status - Divorced (Lotame)",
+        "filet": [
+            "France Relationship Status",
+            "Divorced"
+        ]
+    },
+    {
+        "id": 2639005,
+        "category": "politische Meinungen",
+        "country": "france",
+        "segment_name": "Experian FR - Mosaic - Mature Couples and Seniors - Mature Couples, Comfort and Tradition (Exelate)",
+        "filet": [
+            "Mature Couples",
+            "Comfort and Tradition"
+        ]
+    },
+    {
+        "id": 4072934,
+        "category": "politische Meinungen",
+        "country": "france",
+        "segment_name": "International_EU - France Environmentalism (Lotame)",
+        "filet": [
+            "France Environmentalism"
+        ]
+    },
+    {
+        "id": 6988175,
+        "category": "Finanzstatus",
+        "country": "netherlands",
+        "segment_name": "Eyeota - NL Experian - Whooz - Mosaic Global - D - Comfortable Retirement",
+        "filet": [
+            "Comfortable Retirement"
+        ]
+    },
+    {
+        "id": 19519813,
+        "category": "Finanzstatus",
+        "country": "netherlands",
+        "segment_name": "gh-nl_gps_xandr_da_generic_demographic_households-property-value-350.000-500.000_rich",
+        "filet": [
+            "households",
+            "property value",
+            "350.000 - 500.000"
+        ]
+    },
+    {
+        "id": 24883753,
+        "category": "Finanzstatus",
+        "country": "netherlands",
+        "segment_name": "gh-nl_gps_xandr_gh_all_household-income-2-times-modal-or-more_medium_TEMP",
+        "filet": [
+            "household",
+            "income",
+            "2 times modal or more"
+        ]
+    },
+    {
+        "id": 25453850,
+        "category": "Kinder",
+        "country": "netherlands",
+        "segment_name": "gh-nl_gps_xandr_gh_specific_household-composition-family-with-children-oldest-child- 6-11 _low_display_default",
+        "filet": [
+            "specific household composition",
+            "family with children",
+            "oldest child",
+            "6 - 11"
+        ]
+    },
+    {
+        "id": 25642126,
+        "category": "Kinder",
+        "country": "netherlands",
+        "segment_name": "gh-nl_gps_xandr_gh_specific_household-kids-one-or-more_low_instream_default",
+        "filet": [
+            "specific household composition",
+            "kids",
+            "one or more"
+        ]
+    },
+    {
+        "id": 2154642,
+        "category": "Kinder",
+        "country": "netherlands",
+        "segment_name": "International_EU - Netherlands Parenting (Lotame)",
+        "filet": [
+            "Netherlands Parenting"
+        ]
+    },
+    {
+        "id": 25039671,
+        "category": "politische Meinungen",
+        "country": "netherlands",
+        "segment_name": "gh-nl_gps_xandr_da_specific_demographic_mentality-moderne-burgerij_rich",
+        "filet": [
+            "demographic",
+            "mentality",
+            "moderne burgerij"
+        ]
+    },
+    {
+        "id": 24958277,
+        "category": "politische Meinungen",
+        "country": "netherlands",
+        "segment_name": "gh-nl_gps_xandr_da_specific_mentality-nieuwe-conservatieven_video",
+        "filet": [
+            "specific",
+            "mentality",
+            "nieuwe conservatieven"
+        ]
+    },
+    {
+        "id": 25039772,
+        "category": "politische Meinungen",
+        "country": "netherlands",
+        "segment_name": "gh-nl_tmp_xandr_da_specific_demographic_mentality-post-materialisten_plain",
+        "filet": [
+            "demographic",
+            "mentality",
+            "post materialisten"
+        ]
+    },
+    {
+        "id": 15964301,
+        "category": "Finanzstatus",
+        "country": "italy",
+        "segment_name": "Data Owners > Experian IT > Mosaic audiences > Income > FAMILY INCOME: 0 - 15.000",
+        "filet": [
+            "Income",
+            "FAMILY INCOME",
+            "0 - 15.000"
+        ]
+    },
+    {
+        "id": 4075603,
+        "category": "Finanzstatus",
+        "country": "italy",
+        "segment_name": "International_EU - Italy Credit Level - Poor (Lotame)",
+        "filet": [
+            "Italy Credit Level",
+            "Poor"
+        ]
+    },
+    {
+        "id": 11792912,
+        "category": "Finanzstatus",
+        "country": "italy",
+        "segment_name": "zeotap > Italy > Demographics > Income: High",
+        "filet": [
+            "Income",
+            "High"
+        ]
+    },
+    {
+        "id": 13773374,
+        "category": "Gesundheit",
+        "country": "italy",
+        "segment_name": "Data Owners > KetchUP ADV > IT > INTENT Family & Parenting > Intent Adoption",
+        "filet": [
+            "INTENT Family & Parenting",
+            "Intent Adoption"
+        ]
+    },
+    {
+        "id": 4075166,
+        "category": "Gesundheit",
+        "country": "italy",
+        "segment_name": "International_EU - Italy Dieting and Weight Loss (Lotame)",
+        "filet": [
+            "Italy Dieting and Weight Loss"
+        ]
+    },
+    {
+        "id": 18282951,
+        "category": "Gesundheit",
+        "country": "italy",
+        "segment_name": "zeotap > Italy > Purchase Intent > Weightloss",
+        "filet": [
+            "Purchase Intent",
+            "Weightloss"
+        ]
+    },
+    {
+        "id": 25422255,
+        "category": "Kinder",
+        "country": "italy",
+        "segment_name": "Adsquare Data Alliance > IT > Demographics > Household Size > Children in household (adsquare)",
+        "filet": [
+            "Household Size",
+            "Children in household"
+        ]
+    },
+    {
+        "id": 7892618,
+        "category": "Kinder",
+        "country": "italy",
+        "segment_name": "Branded Data > Mobilewalla > Italy > General Demography > Young Mothers (BlueKai)",
+        "filet": [
+            "General Demography",
+            "Young Mothers"
+        ]
+    },
+    {
+        "id": 17034350,
+        "category": "Kinder",
+        "country": "italy",
+        "segment_name": "zeotap > Italy > Interest > moms to be",
+        "filet": [
+            "Interest",
+            "moms to be"
+        ]
+    },
+    {
+        "id": 4075657,
+        "category": "pers\u00f6nliche Schw\u00e4chen",
+        "country": "italy",
+        "segment_name": "International_EU - Italy Relationship Status - Divorced (Lotame)",
+        "filet": [
+            "Italy Relationship Status",
+            "Divorced"
+        ]
+    },
+    {
+        "id": 26344487,
+        "category": "politische Meinungen",
+        "country": "italy",
+        "segment_name": "Lotame > Custom > IT > Environmentalism",
+        "filet": [
+            "Environmentalism"
+        ]
+    },
+    {
+        "id": 11153106,
+        "category": "Finanzstatus",
+        "country": "denmark",
+        "segment_name": "Branded Data > Nordic Data Resources > Denmark > Economy > Household Income > Elite (BlueKai)",
+        "filet": [
+            "Household Income",
+            "Elite"
+        ]
+    },
+    {
+        "id": 15101320,
+        "category": "Finanzstatus",
+        "country": "denmark",
+        "segment_name": "Branded Data > Nordic Data Resources > Denmark > Economy > Household Income > Less than 300.000 DKK (Power Reach) (BlueKai)",
+        "filet": [
+            "Household Income",
+            "Less than 300.000 DKK"
+        ]
+    },
+    {
+        "id": 11155306,
+        "category": "Finanzstatus",
+        "country": "denmark",
+        "segment_name": "Branded Data > Nordic Data Resources > Denmark > Economy > Insurance > Has a Private Health Insurance (Super Target) (BlueKai)",
+        "filet": [
+            "Insurance",
+            "Has a Private Health Insurance"
+        ]
+    },
+    {
+        "id": 13723906,
+        "category": "Gesundheit",
+        "country": "denmark",
+        "segment_name": "GfK > DK > Purchasing Power for Retail Product Lines > Alcoholic beverages > 3: High (adsquare)",
+        "filet": [
+            "Purchasing Power for Retail Product Lines",
+            "Alcoholic beverages",
+            "High"
+        ]
+    },
+    {
+        "id": 13723914,
+        "category": "Gesundheit",
+        "country": "denmark",
+        "segment_name": "GfK > DK > Purchasing Power for Retail Product Lines > Tobacco products > 3: High (adsquare)",
+        "filet": [
+            "Purchasing Power for Retail Product Lines",
+            "Tobacco products",
+            "High"
+        ]
+    },
+    {
+        "id": 11153007,
+        "category": "Kinder",
+        "country": "denmark",
+        "segment_name": "Branded Data > Nordic Data Resources > Denmark > Family & Parenting > Children > Households with More than 2 Children (Super Target) (BlueKai)",
+        "filet": [
+            "Family & Parenting",
+            "Children",
+            "Households with More than 2 Children"
+        ]
+    },
+    {
+        "id": 11157121,
+        "category": "Kinder",
+        "country": "denmark",
+        "segment_name": "Branded Data > Nordic Data Resources > Denmark > Life Phases > Families with School Children (BlueKai)",
+        "filet": [
+            "Life Phases",
+            "Families with School Children"
+        ]
+    },
+    {
+        "id": 15675923,
+        "category": "Kinder",
+        "country": "denmark",
+        "segment_name": "Eyeota - DK NDR - 03 Life Phases - Couples With Kids (Super Target)",
+        "filet": [
+            "03 Life Phases",
+            "Couples With Kids"
+        ]
+    },
+    {
+        "id": 15101870,
+        "category": "pers\u00f6nliche Schw\u00e4chen",
+        "country": "denmark",
+        "segment_name": "Branded Data > Nordic Data Resources > Denmark > Shopping > Often Influenced By Advertising (Power Reach) (BlueKai)",
+        "filet": [
+            "Shopping",
+            "Often Influenced By Advertising"
+        ]
+    },
+    {
+        "id": 15103413,
+        "category": "politische Meinungen",
+        "country": "denmark",
+        "segment_name": "Branded Data > Nordic Data Resources > Denmark > Shopping > Conscious About CO2 Emission (Power Reach) (BlueKai)",
+        "filet": [
+            "Shopping",
+            "Conscious About CO2 Emission"
+        ]
+    },
+    {
+        "id": 11154529,
+        "category": "politische Meinungen",
+        "country": "denmark",
+        "segment_name": "Branded Data > Nordic Data Resources > Denmark > Shopping > Environmental Products (Super Target) (BlueKai)",
+        "filet": [
+            "Shopping",
+            "Environmental Products"
+        ]
+    },
+    {
+        "id": 18059898,
+        "category": "politische Meinungen",
+        "country": "denmark",
+        "segment_name": "Eyeota - DK NDR - 08 Kantar-Gallup Interests - Interested in: Equality",
+        "filet": [
+            "Interested in",
+            "Equality"
+        ]
+    },
+    {
+        "id": 11156468,
+        "category": "religi\u00f6se oder weltanschauliche \u00dcberzeugungen",
+        "country": "denmark",
+        "segment_name": "Branded Data > Nordic Data Resources > Denmark > Interests > Interested in Spiritual, Religious (Super Target) (BlueKai)",
+        "filet": [
+            "Interested in Spiritual, Religious"
+        ]
+    },
+    {
+        "id": 11154589,
+        "category": "Finanzstatus",
+        "country": "sweden",
+        "segment_name": "Branded Data > Nordic Data Resources > Sweden > Economy > Family > High Income From Capital (Super Target) (BlueKai)",
+        "filet": [
+            "Family",
+            "High Income From Capital"
+        ]
+    },
+    {
+        "id": 8011174,
+        "category": "Finanzstatus",
+        "country": "sweden",
+        "segment_name": "Branded Data > Nordic Data Resources > Sweden > Mosaic > (A) Affluent Pioneers (BlueKai)",
+        "filet": [
+            "Affluent Pioneers"
+        ]
+    },
+    {
+        "id": 22522783,
+        "category": "Finanzstatus",
+        "country": "sweden",
+        "segment_name": "digitalAudience:Sweden>Households>HouseholdIncome>100K-200KSEK",
+        "filet": [
+            "Household Income",
+            "100K-200KSEK"
+        ]
+    },
+    {
+        "id": 15740725,
+        "category": "Finanzstatus",
+        "country": "sweden",
+        "segment_name": "Eyeota - SE NDR - 01 Mosaic - (J) Less Affluent Latecomers",
+        "filet": [
+            "Less Affluent Latecomers"
+        ]
+    },
+    {
+        "id": 26569332,
+        "category": "Gesundheit",
+        "country": "sweden",
+        "segment_name": "digitalAudience: Sweden > Spending Intent > Alcoholic Beverages > Above Average",
+        "filet": [
+            "Spending Intent",
+            "Alcoholic Beverages",
+            "Above Average"
+        ]
+    },
+    {
+        "id": 26569461,
+        "category": "Gesundheit",
+        "country": "sweden",
+        "segment_name": "digitalAudience: Sweden > Spending Intent > Tobacco > Above Average",
+        "filet": [
+            "Spending Intent",
+            "Tobacco",
+            "Above Average"
+        ]
+    },
+    {
+        "id": 13723437,
+        "category": "Gesundheit",
+        "country": "sweden",
+        "segment_name": "GfK > SE > Purchasing Power for Retail Product Lines > Tobacco products > 3: High (adsquare)",
+        "filet": [
+            "Purchasing Power for Retail Product Lines",
+            "Tobacco products",
+            "High"
+        ]
+    },
+    {
+        "id": 11155560,
+        "category": "Kinder",
+        "country": "sweden",
+        "segment_name": "Branded Data > Nordic Data Resources > Sweden > Family Type > Families with 2 Children (Super Target) (BlueKai)",
+        "filet": [
+            "Family Type",
+            "Families with 2 Children"
+        ]
+    },
+    {
+        "id": 8013095,
+        "category": "Kinder",
+        "country": "sweden",
+        "segment_name": "Branded Data > Nordic Data Resources > Sweden > Super Target > Family Type > Young Family With Children (BlueKai)",
+        "filet": [
+            "Family Type",
+            "Young Family With Children"
+        ]
+    },
+    {
+        "id": 17576433,
+        "category": "Kinder",
+        "country": "sweden",
+        "segment_name": "Eyeota - SE NDR - 011 NDR International - A3 Less Affluent Families With School Age Children",
+        "filet": [
+            "Less Affluent Families With School Age Children"
+        ]
+    },
+    {
+        "id": 13715500,
+        "category": "politische Meinungen",
+        "country": "sweden",
+        "segment_name": "Bisnode > SE > Persona > Conservative (adsquare)",
+        "filet": [
+            "Persona",
+            "Conservative"
+        ]
+    },
+    {
+        "id": 15101370,
+        "category": "politische Meinungen",
+        "country": "sweden",
+        "segment_name": "Branded Data > Nordic Data Resources > Sweden > Consumer Attitudes > Traditionalism (Power Reach) (BlueKai)",
+        "filet": [
+            "Consumer Attitudes",
+            "Traditionalism"
+        ]
+    },
+    {
+        "id": 8013151,
+        "category": "politische Meinungen",
+        "country": "sweden",
+        "segment_name": "Branded Data > Nordic Data Resources > Sweden > Super Target > Interests > Equality (BlueKai)",
+        "filet": [
+            "Interests",
+            "Equality"
+        ]
+    },
+    {
+        "id": 8013244,
+        "category": "religi\u00f6se oder weltanschauliche \u00dcberzeugungen",
+        "country": "sweden",
+        "segment_name": "Branded Data > Nordic Data Resources > Sweden > Super Target > Interests > Religion (BlueKai)",
+        "filet": [
+            "Interests",
+            "Religion"
+        ]
+    },
+    {
+        "id": 10177831,
+        "category": "Finanzstatus",
+        "country": "finland",
+        "segment_name": "Branded Data > Mobilewalla > Finland > General Demography > Low Income (BlueKai)",
+        "filet": [
+            "General Demography",
+            "Low Income"
+        ]
+    },
+    {
+        "id": 17576011,
+        "category": "Finanzstatus",
+        "country": "finland",
+        "segment_name": "Eyeota - FI NDR - 01 Cameo Groups - 01 Wealthy Elite",
+        "filet": [
+            "Cameo Groups",
+            "Wealthy Elite"
+        ]
+    },
+    {
+        "id": 17576048,
+        "category": "Finanzstatus",
+        "country": "finland",
+        "segment_name": "Eyeota - FI NDR - 04 Economy - 2 Less Affluent Families",
+        "filet": [
+            "Economy",
+            "Less Affluent Families"
+        ]
+    },
+    {
+        "id": 21019194,
+        "category": "Gesundheit",
+        "country": "finland",
+        "segment_name": "Eyeota - FI NDR - 21 Kantar Mind - Kantar Mind Lifestyle - Kantar Quit smoking",
+        "filet": [
+            "Kantar Mind Lifestyle",
+            "Quit smoking"
+        ]
+    },
+    {
+        "id": 13722605,
+        "category": "Gesundheit",
+        "country": "finland",
+        "segment_name": "GfK > FI > Purchasing Power for Retail Product Lines > Alcoholic beverages > 3: High (adsquare)",
+        "filet": [
+            "Purchasing Power for Retail Product Lines",
+            "Alcoholic beverages",
+            "High"
+        ]
+    },
+    {
+        "id": 13722589,
+        "category": "Gesundheit",
+        "country": "finland",
+        "segment_name": "GfK > FI > Purchasing Power for Retail Product Lines > Tobacco products > 3: High (adsquare)",
+        "filet": [
+            "Purchasing Power for Retail Product Lines",
+            "Tobacco products",
+            "High"
+        ]
+    },
+    {
+        "id": 10175940,
+        "category": "Kinder",
+        "country": "finland",
+        "segment_name": "Branded Data > Mobilewalla > Finland > General Demography > Young Mothers (BlueKai)",
+        "filet": [
+            "General Demography",
+            "Young Mothers"
+        ]
+    },
+    {
+        "id": 11154557,
+        "category": "Kinder",
+        "country": "finland",
+        "segment_name": "Branded Data > Nordic Data Resources > Finland > Household Members > Number of Children > 3 (Super Target) (BlueKai)",
+        "filet": [
+            "Household Members",
+            "Number of Children",
+            "3"
+        ]
+    },
+    {
+        "id": 21019200,
+        "category": "Kinder",
+        "country": "finland",
+        "segment_name": "Eyeota - FI NDR - 21 Kantar Mind - Kantar Mind Lifestyle - Kantar Single Parents",
+        "filet": [
+            "Kantar Mind Lifestyle",
+            "Single Parents"
+        ]
+    },
+    {
+        "id": 19037820,
+        "category": "religi\u00f6se oder weltanschauliche \u00dcberzeugungen",
+        "country": "finland",
+        "segment_name": "Eyeota - FI NDR - Insight360 - Values360 - 3 Spiritual and religious well-doers",
+        "filet": [
+            "Values",
+            "Spiritual and religious well-doers"
+        ]
+    },
+    {
+        "id": 18338174,
+        "category": "Finanzstatus",
+        "country": "austria",
+        "segment_name": "Semasio - AT: Classic Extended Audience - Automotive - Interest in Luxury Cars & Collectors",
+        "filet": [
+            "Automotive",
+            "Interest in Luxury Cars & Collectors"
+        ]
+    },
+    {
+        "id": 19489293,
+        "category": "Finanzstatus",
+        "country": "austria",
+        "segment_name": "zeotap > Austria > Purchase Intent > Fashion & Beauty > Luxury",
+        "filet": [
+            "Purchase Intent",
+            "Fashion & Beauty",
+            "Luxury"
+        ]
+    },
+    {
+        "id": 13723689,
+        "category": "Gesundheit",
+        "country": "austria",
+        "segment_name": "GfK > AT > Purchasing Power for Retail Product Lines > Alcoholic beverages > 3: High (adsquare)",
+        "filet": [
+            "Purchasing Power for Retail Product Lines",
+            "Alcoholic beverages",
+            "High"
+        ]
+    },
+    {
+        "id": 13723667,
+        "category": "Gesundheit",
+        "country": "austria",
+        "segment_name": "GfK > AT > Purchasing Power for Retail Product Lines > Tobacco products > 3: High (adsquare)",
+        "filet": [
+            "Purchasing Power for Retail Product Lines",
+            "Tobacco products",
+            "High"
+        ]
+    },
+    {
+        "id": 4027700,
+        "category": "Kinder",
+        "country": "austria",
+        "segment_name": "International_EU - Austria Parenting (Lotame)",
+        "filet": [
+            "Austria Parenting"
+        ]
+    },
+    {
+        "id": 18352024,
+        "category": "Kinder",
+        "country": "austria",
+        "segment_name": "Semasio - AT: Classic Extended Audience - Fashion & Shopping - Interest in Children's Fashion",
+        "filet": [
+            "Fashion & Shopping",
+            "Interest in Children's Fashion"
+        ]
+    },
+    {
+        "id": 25423893,
+        "category": "Kinder",
+        "country": "belgium",
+        "segment_name": "Adsquare Data Alliance > BE > Demographics > Family &amp; Marital Status > Parents > Fathers (adsquare)",
+        "filet": [
+            "Family & Marital Status",
+            "Parents",
+            "Fathers"
+        ]
+    },
+    {
+        "id": 23680162,
+        "category": "Kinder",
+        "country": "belgium",
+        "segment_name": "iRobot - Parents  - Belgium (adsquare)",
+        "filet": [
+            "Parents"
+        ]
+    },
+    {
+        "id": 23720457,
+        "category": "Kinder",
+        "country": "belgium",
+        "segment_name": "Lotame > Custom > BE > Parents",
+        "filet": [
+            "Parents"
+        ]
+    },
+    {
+        "id": 2154811,
+        "category": "Kinder",
+        "country": "poland",
+        "segment_name": "International_EU - Poland Parenting (Lotame)",
+        "filet": [
+            "Poland Parenting"
+        ]
+    },
+    {
+        "id": 24967903,
+        "category": "Kinder",
+        "country": "croatia",
+        "segment_name": "Start.io > HR > Custom > Redview Media > StartApp_Moms Croatia (adsquare)",
+        "filet": [
+            "Moms Croatia"
+        ]
+    },
+    {
+        "id": 23696149,
+        "category": "Kinder",
+        "country": "portugal",
+        "segment_name": "iRobot - Parents -  Portugal (adsquare)",
+        "filet": [
+            "Parents",
+            "Portugal"
+        ]
+    },
+    {
+        "id": 23720484,
+        "category": "Kinder",
+        "country": "portugal",
+        "segment_name": "Lotame > Custom > PT > Parents",
+        "filet": [
+            "PT",
+            "Parents"
+        ]
+    },
+    {
+        "id": 24625150,
+        "category": "religi\u00f6se oder weltanschauliche \u00dcberzeugungen",
+        "country": "portugal",
+        "segment_name": "Lifestyle > Faith > UK & Portugal Christianity - Extended Scale (Dstillery)",
+        "filet": [
+            "UK & Portugal Christianity"
+        ]
+    },
+    {
+        "id": 24625040,
+        "category": "religi\u00f6se oder weltanschauliche \u00dcberzeugungen",
+        "country": "portugal",
+        "segment_name": "Lifestyle > Faith > UK & Portugal Christianity - Extreme Confidence (Dstillery)",
+        "filet": [
+            "Faith",
+            "UK & Portugal Christianity",
+            "Extreme Confidence"
+        ]
+    }
+]

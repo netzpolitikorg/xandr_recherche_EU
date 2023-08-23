@@ -1,0 +1,423 @@
+[
+    {
+        "name": "belgium",
+        "name_de": "Belgien",
+        "strings": [
+            "belgium",
+            "belgian",
+            "belgie"
+        ],
+        "codes": [
+            "be",
+            "bel"
+        ],
+        "identifiers": [
+            "xaxisbe",
+            "xaxisbel"
+        ]
+    },
+    {
+        "name": "bulgaria",
+        "name_de": "Bulgarien",
+        "strings": [
+            "bulgaria",
+            "bulgarian",
+            "bulgarija"
+        ],
+        "codes": [
+            "bg",
+            "bgr"
+        ],
+        "identifiers": []
+    },
+    {
+        "name": "czechia",
+        "name_de": "Tschechische Republik",
+        "strings": [
+            "czechia",
+            "czech",
+            "cesko",
+            "ceska"
+        ],
+        "codes": [
+            "cz",
+            "cze"
+        ],
+        "identifiers": [
+            "xaxiscz"
+        ]
+    },
+    {
+        "name": "denmark",
+        "name_de": "D\u00e4nemark",
+        "strings": [
+            "denmark",
+            "danish",
+            "danmark"
+        ],
+        "codes": [
+            "dk",
+            "dnk"
+        ],
+        "identifiers": [
+            "xaxisdk",
+            "dk ndr"
+        ]
+    },
+    {
+        "name": "germany",
+        "name_de": "Deutschland",
+        "strings": [
+            "germany",
+            "german",
+            "deutschland"
+        ],
+        "codes": [
+            "de",
+            "deu",
+            "ger"
+        ],
+        "identifiers": [
+            "xaxisde",
+            "de experian",
+            "de kantar"
+        ]
+    },
+    {
+        "name": "estonia",
+        "name_de": "Estland",
+        "strings": [
+            "estonia",
+            "estonian",
+            "eesti"
+        ],
+        "codes": [
+            "ee",
+            "est"
+        ],
+        "identifiers": []
+    },
+    {
+        "name": "ireland",
+        "name_de": "Irland",
+        "strings": [
+            "ireland",
+            "irish"
+        ],
+        "codes": [
+            "ie",
+            "irl"
+        ],
+        "identifiers": []
+    },
+    {
+        "name": "greece",
+        "name_de": "Griechenland",
+        "strings": [
+            "greece",
+            "greek"
+        ],
+        "codes": [
+            "el",
+            "grc"
+        ],
+        "identifiers": []
+    },
+    {
+        "name": "spain",
+        "name_de": "Spanien",
+        "strings": [
+            "spain",
+            "spanish"
+        ],
+        "codes": [
+            "es",
+            "esp"
+        ],
+        "identifiers": [
+            "xaxises",
+            "es experian",
+            "experian sp"
+        ]
+    },
+    {
+        "name": "france",
+        "name_de": "Frankreich",
+        "strings": [
+            "france",
+            "french",
+            "francaise"
+        ],
+        "codes": [
+            "fr",
+            "fra"
+        ],
+        "identifiers": [
+            "xaxisfr",
+            "fr experian",
+            "experian fr",
+            "fr kantar"
+        ]
+    },
+    {
+        "name": "croatia",
+        "name_de": "Kroatien",
+        "strings": [
+            "croatia",
+            "croatian"
+        ],
+        "codes": [
+            "hr",
+            "hrv"
+        ],
+        "identifiers": []
+    },
+    {
+        "name": "italy",
+        "name_de": "Italien",
+        "strings": [
+            "italy",
+            "italian"
+        ],
+        "codes": [
+            "it",
+            "ita"
+        ],
+        "identifiers": [
+            "xaxisit",
+            "experian it"
+        ]
+    },
+    {
+        "name": "cyprus",
+        "name_de": "Zypern",
+        "strings": [
+            "cyprus",
+            "cypriot"
+        ],
+        "codes": [
+            "cy",
+            "cyp"
+        ],
+        "identifiers": []
+    },
+    {
+        "name": "latvia",
+        "name_de": "Lettland",
+        "strings": [
+            "latvia",
+            "latvian"
+        ],
+        "codes": [
+            "lv",
+            "lva"
+        ],
+        "identifiers": []
+    },
+    {
+        "name": "lithuania",
+        "name_de": "Litauen",
+        "strings": [
+            "lithuania",
+            "lithuanian"
+        ],
+        "codes": [
+            "lt",
+            "ltu"
+        ],
+        "identifiers": []
+    },
+    {
+        "name": "luxembourg",
+        "name_de": "Luxemburg",
+        "strings": [
+            "luxembourg",
+            "luxembourgian"
+        ],
+        "codes": [
+            "lu",
+            "lux"
+        ],
+        "identifiers": []
+    },
+    {
+        "name": "hungary",
+        "name_de": "Ungarn",
+        "strings": [
+            "hungary",
+            "hungarian"
+        ],
+        "codes": [
+            "hu",
+            "hun"
+        ],
+        "identifiers": [
+            "xaxishu",
+            "xaxishungar"
+        ]
+    },
+    {
+        "name": "malta",
+        "name_de": "Malta",
+        "strings": [
+            "malta",
+            "maltese"
+        ],
+        "codes": [
+            "mt",
+            "mlt"
+        ],
+        "identifiers": []
+    },
+    {
+        "name": "netherlands",
+        "name_de": "Niederlande",
+        "strings": [
+            "netherland",
+            "dutch"
+        ],
+        "codes": [
+            "nl",
+            "nld"
+        ],
+        "identifiers": [
+            "xaxisnl",
+            "nl experian"
+        ]
+    },
+    {
+        "name": "austria",
+        "name_de": "\u00d6sterreich",
+        "strings": [
+            "austria",
+            "austrian",
+            "osterreich"
+        ],
+        "codes": [
+            "at",
+            "aut"
+        ],
+        "identifiers": [
+            "xaxaustria"
+        ]
+    },
+    {
+        "name": "poland",
+        "name_de": "Polen",
+        "strings": [
+            "poland",
+            "polish"
+        ],
+        "codes": [
+            "pl",
+            "pol"
+        ],
+        "identifiers": [
+            "xaxispo"
+        ]
+    },
+    {
+        "name": "portugal",
+        "name_de": "Portugal",
+        "strings": [
+            "portugal",
+            "portuguese"
+        ],
+        "codes": [
+            "pt",
+            "prt"
+        ],
+        "identifiers": [
+            "xaxispt"
+        ]
+    },
+    {
+        "name": "romania",
+        "name_de": "Rum\u00e4nien",
+        "strings": [
+            "romania",
+            "romanian"
+        ],
+        "codes": [
+            "ro",
+            "rou"
+        ],
+        "identifiers": [
+            "xaxisro"
+        ]
+    },
+    {
+        "name": "slovenia",
+        "name_de": "Slovenien",
+        "strings": [
+            "slovenia",
+            "slovenian"
+        ],
+        "codes": [
+            "si",
+            "svn"
+        ],
+        "identifiers": []
+    },
+    {
+        "name": "slovakia",
+        "name_de": "Slovakei",
+        "strings": [
+            "slovakia",
+            "slovak"
+        ],
+        "codes": [
+            "sk",
+            "svk"
+        ],
+        "identifiers": []
+    },
+    {
+        "name": "finland",
+        "name_de": "Finnland",
+        "strings": [
+            "finland",
+            "finnish"
+        ],
+        "codes": [
+            "fi",
+            "fin"
+        ],
+        "identifiers": [
+            "xaxisfi",
+            "fi ndr"
+        ]
+    },
+    {
+        "name": "sweden",
+        "name_de": "Schweden",
+        "strings": [
+            "sweden",
+            "swedish"
+        ],
+        "codes": [
+            "se",
+            "swe"
+        ],
+        "identifiers": [
+            "xaxisse",
+            "xaxissweden",
+            "se ndr"
+        ]
+    },
+    {
+        "name": "europe",
+        "name_de": "Europa",
+        "strings": [
+            "europe",
+            "european"
+        ],
+        "codes": [
+            "eu",
+            "eue"
+        ],
+        "identifiers": [
+            "xaxisema"
+        ]
+    }
+]

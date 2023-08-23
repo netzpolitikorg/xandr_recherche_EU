@@ -1,0 +1,236 @@
+id,provider_name,provider_id,segment_name,country
+24883753,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_all_household-income-2-times-modal-or-more_medium_TEMP,netherlands
+25641120,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-income-2-times-modal-or-more_high_audio-outstream_default,netherlands
+25453919,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-income-2-times-modal-or-more_high_display_default,netherlands
+25642109,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-income-2-times-modal-or-more_high_instream_default,netherlands
+25641121,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-income-2-times-modal-or-more_low_audio-outstream_default,netherlands
+25453920,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-income-2-times-modal-or-more_low_display_default,netherlands
+25642110,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-income-2-times-modal-or-more_low_instream_default,netherlands
+25641123,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-income-2-times-modal-or-more_medium_audio-outstream_default,netherlands
+25453921,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-income-2-times-modal-or-more_medium_display_default,netherlands
+25642111,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-income-2-times-modal-or-more_medium_instream_default,netherlands
+25641124,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-income-above-modal-till-2-times-modal_high_audio-outstream_default,netherlands
+25453922,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-income-above-modal-till-2-times-modal_high_display_default,netherlands
+25642112,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-income-above-modal-till-2-times-modal_high_instream_default,netherlands
+25641125,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-income-above-modal-till-2-times-modal_low_audio-outstream_default,netherlands
+25453924,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-income-above-modal-till-2-times-modal_low_display_default,netherlands
+25642113,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-income-above-modal-till-2-times-modal_low_instream_default,netherlands
+25641126,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-income-above-modal-till-2-times-modal_medium_audio-outstream_default,netherlands
+25453925,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-income-above-modal-till-2-times-modal_medium_display_default,netherlands
+25642115,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-income-above-modal-till-2-times-modal_medium_instream_default,netherlands
+25641127,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-income-below-modal_high_audio-outstream_default,netherlands
+25453927,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-income-below-modal_high_display_default,netherlands
+25642116,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-income-below-modal_high_instream_default,netherlands
+25641128,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-income-below-modal_low_audio-outstream_default,netherlands
+25453929,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-income-below-modal_low_display_default,netherlands
+25642117,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-income-below-modal_low_instream_default,netherlands
+25641129,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-income-below-modal_medium_audio-outstream_default,netherlands
+25453930,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-income-below-modal_medium_display_default,netherlands
+25642118,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-income-below-modal_medium_instream_default,netherlands
+25641130,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-income-modal_high_audio-outstream_default,netherlands
+25453931,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-income-modal_high_display_default,netherlands
+25642119,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-income-modal_high_instream_default,netherlands
+25641131,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-income-modal_low_audio-outstream_default,netherlands
+25453932,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-income-modal_low_display_default,netherlands
+25642120,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-income-modal_low_instream_default,netherlands
+25641132,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-income-modal_medium_audio-outstream_default,netherlands
+25453933,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-income-modal_medium_display_default,netherlands
+25642121,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-income-modal_medium_instream_default,netherlands
+25641412,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-income-2-times-modal-or-more_high_audio-outstream_default,netherlands
+25454211,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-income-2-times-modal-or-more_high_display_default,netherlands
+25642417,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-income-2-times-modal-or-more_high_instream_default,netherlands
+25641413,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-income-2-times-modal-or-more_low_audio-outstream_default,netherlands
+25454212,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-income-2-times-modal-or-more_low_display_default,netherlands
+25642418,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-income-2-times-modal-or-more_low_instream_default,netherlands
+25641414,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-income-2-times-modal-or-more_medium_audio-outstream_default,netherlands
+25454213,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-income-2-times-modal-or-more_medium_display_default,netherlands
+25642419,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-income-2-times-modal-or-more_medium_instream_default,netherlands
+25641415,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-income-above-modal-till-2-times-modal_high_audio-outstream_default,netherlands
+25454214,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-income-above-modal-till-2-times-modal_high_display_default,netherlands
+25642420,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-income-above-modal-till-2-times-modal_high_instream_default,netherlands
+25641416,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-income-above-modal-till-2-times-modal_low_audio-outstream_default,netherlands
+25454215,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-income-above-modal-till-2-times-modal_low_display_default,netherlands
+25642421,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-income-above-modal-till-2-times-modal_low_instream_default,netherlands
+25641417,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-income-above-modal-till-2-times-modal_medium_audio-outstream_default,netherlands
+25454216,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-income-above-modal-till-2-times-modal_medium_display_default,netherlands
+25642422,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-income-above-modal-till-2-times-modal_medium_instream_default,netherlands
+25641418,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-income-below-modal_high_audio-outstream_default,netherlands
+25454217,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-income-below-modal_high_display_default,netherlands
+25642423,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-income-below-modal_high_instream_default,netherlands
+25641419,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-income-below-modal_low_audio-outstream_default,netherlands
+25454218,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-income-below-modal_low_display_default,netherlands
+25642424,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-income-below-modal_low_instream_default,netherlands
+25641421,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-income-below-modal_medium_audio-outstream_default,netherlands
+25454219,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-income-below-modal_medium_display_default,netherlands
+25642426,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-income-below-modal_medium_instream_default,netherlands
+25641423,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-income-modal_high_audio-outstream_default,netherlands
+25454220,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-income-modal_high_display_default,netherlands
+25642428,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-income-modal_high_instream_default,netherlands
+25641424,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-income-modal_low_audio-outstream_default,netherlands
+25454221,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-income-modal_low_display_default,netherlands
+25642430,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-income-modal_low_instream_default,netherlands
+25641425,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-income-modal_medium_audio-outstream_default,netherlands
+25454222,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-income-modal_medium_display_default,netherlands
+25642431,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-income-modal_medium_instream_default,netherlands
+25641048,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-family-with-children-oldest-child- 6-11 _high_audio-outstream_default,netherlands
+25453849,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-family-with-children-oldest-child- 6-11 _high_display_default,netherlands
+25642033,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-family-with-children-oldest-child- 6-11 _high_instream_default,netherlands
+25641049,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-family-with-children-oldest-child- 6-11 _low_audio-outstream_default,netherlands
+25453850,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-family-with-children-oldest-child- 6-11 _low_display_default,netherlands
+25642035,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-family-with-children-oldest-child- 6-11 _low_instream_default,netherlands
+25641050,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-family-with-children-oldest-child- 6-11 _medium_audio-outstream_default,netherlands
+25453851,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-family-with-children-oldest-child- 6-11 _medium_display_default,netherlands
+25642037,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-family-with-children-oldest-child- 6-11 _medium_instream_default,netherlands
+25641051,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-0-5 _high_audio-outstream_default,netherlands
+25453852,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-0-5 _high_display_default,netherlands
+25642038,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-0-5 _high_instream_default,netherlands
+25641052,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-0-5 _low_audio-outstream_default,netherlands
+25453853,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-0-5 _low_display_default,netherlands
+25642040,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-0-5 _low_instream_default,netherlands
+25641053,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-0-5 _medium_audio-outstream_default,netherlands
+25453854,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-0-5 _medium_display_default,netherlands
+25642041,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-0-5 _medium_instream_default,netherlands
+25641054,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-12-17_high_audio-outstream_default,netherlands
+25453856,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-12-17_high_display_default,netherlands
+25642042,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-12-17_high_instream_default,netherlands
+25641055,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-12-17_low_audio-outstream_default,netherlands
+25453857,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-12-17_low_display_default,netherlands
+25642043,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-12-17_low_instream_default,netherlands
+25641056,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-12-17_medium_audio-outstream_default,netherlands
+25453858,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-12-17_medium_display_default,netherlands
+25642044,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-12-17_medium_instream_default,netherlands
+25641057,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-18+_high_audio-outstream_default,netherlands
+25453859,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-18+_high_display_default,netherlands
+25642047,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-18+_high_instream_default,netherlands
+25641058,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-18+_low_audio-outstream_default,netherlands
+25453860,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-18+_low_display_default,netherlands
+25642048,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-18+_low_instream_default,netherlands
+25641059,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-18+_medium_audio-outstream_default,netherlands
+25453861,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-18+_medium_display_default,netherlands
+25642050,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-18+_medium_instream_default,netherlands
+25641063,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-single-or-couple-without-children-35-49_high_audio-outstream_default,netherlands
+25453865,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-single-or-couple-without-children-35-49_high_display_default,netherlands
+25642056,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-single-or-couple-without-children-35-49_high_instream_default,netherlands
+25641064,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-single-or-couple-without-children-35-49_low_audio-outstream_default,netherlands
+25453866,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-single-or-couple-without-children-35-49_low_display_default,netherlands
+25642058,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-single-or-couple-without-children-35-49_low_instream_default,netherlands
+25641065,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-single-or-couple-without-children-35-49_medium_audio-outstream_default,netherlands
+25453867,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-single-or-couple-without-children-35-49_medium_display_default,netherlands
+25642059,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-single-or-couple-without-children-35-49_medium_instream_default,netherlands
+25641060,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-single-or-couple-without-children-35-_high_audio-outstream_default,netherlands
+25453862,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-single-or-couple-without-children-35-_high_display_default,netherlands
+25642051,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-single-or-couple-without-children-35-_high_instream_default,netherlands
+25641061,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-single-or-couple-without-children-35-_low_audio-outstream_default,netherlands
+25453863,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-single-or-couple-without-children-35-_low_display_default,netherlands
+25642053,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-single-or-couple-without-children-35-_low_instream_default,netherlands
+25641062,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-single-or-couple-without-children-35-_medium_audio-outstream_default,netherlands
+25453864,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-single-or-couple-without-children-35-_medium_display_default,netherlands
+25642054,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-single-or-couple-without-children-35-_medium_instream_default,netherlands
+25641066,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-single-or-couple-without-children-50-64_high_audio-outstream_default,netherlands
+25453868,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-single-or-couple-without-children-50-64_high_display_default,netherlands
+25642062,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-single-or-couple-without-children-50-64_high_instream_default,netherlands
+25641067,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-single-or-couple-without-children-50-64_low_audio-outstream_default,netherlands
+25453869,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-single-or-couple-without-children-50-64_low_display_default,netherlands
+25642063,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-single-or-couple-without-children-50-64_low_instream_default,netherlands
+25641068,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-single-or-couple-without-children-50-64_medium_audio-outstream_default,netherlands
+25453870,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-single-or-couple-without-children-50-64_medium_display_default,netherlands
+25642064,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-single-or-couple-without-children-50-64_medium_instream_default,netherlands
+25641069,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-single-or-couple-without-children-65+_high_audio-outstream_default,netherlands
+25453871,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-single-or-couple-without-children-65+_high_display_default,netherlands
+25642065,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-single-or-couple-without-children-65+_high_instream_default,netherlands
+25641070,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-single-or-couple-without-children-65+_low_audio-outstream_default,netherlands
+25453872,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-single-or-couple-without-children-65+_low_display_default,netherlands
+25642066,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-single-or-couple-without-children-65+_low_instream_default,netherlands
+25641071,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-single-or-couple-without-children-65+_medium_audio-outstream_default,netherlands
+25453873,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-single-or-couple-without-children-65+_medium_display_default,netherlands
+25642067,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-composition-single-or-couple-without-children-65+_medium_instream_default,netherlands
+25641133,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-kids-none_high_audio-outstream_default,netherlands
+25453934,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-kids-none_high_display_default,netherlands
+25642122,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-kids-none_high_instream_default,netherlands
+25641134,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-kids-none_low_audio-outstream_default,netherlands
+25453935,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-kids-none_low_display_default,netherlands
+25642123,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-kids-none_low_instream_default,netherlands
+25641135,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-kids-none_medium_audio-outstream_default,netherlands
+25453936,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-kids-none_medium_display_default,netherlands
+25642124,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-kids-none_medium_instream_default,netherlands
+25641137,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-kids-one-or-more_high_audio-outstream_default,netherlands
+25453937,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-kids-one-or-more_high_display_default,netherlands
+25642125,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-kids-one-or-more_high_instream_default,netherlands
+25641138,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-kids-one-or-more_low_audio-outstream_default,netherlands
+25453938,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-kids-one-or-more_low_display_default,netherlands
+25642126,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-kids-one-or-more_low_instream_default,netherlands
+25641139,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-kids-one-or-more_medium_audio-outstream_default,netherlands
+25453940,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-kids-one-or-more_medium_display_default,netherlands
+25642127,GroupM NL - GH 6924,6924,gh-nl_gps_xandr_gh_specific_household-kids-one-or-more_medium_instream_default,netherlands
+25641339,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-family-with-children-oldest-child- 6-11 _high_audio-outstream_default,netherlands
+25454147,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-family-with-children-oldest-child- 6-11 _high_display_default,netherlands
+25642338,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-family-with-children-oldest-child- 6-11 _high_instream_default,netherlands
+25641341,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-family-with-children-oldest-child- 6-11 _low_audio-outstream_default,netherlands
+25454148,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-family-with-children-oldest-child- 6-11 _low_display_default,netherlands
+25642339,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-family-with-children-oldest-child- 6-11 _low_instream_default,netherlands
+25641342,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-family-with-children-oldest-child- 6-11 _medium_audio-outstream_default,netherlands
+25454149,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-family-with-children-oldest-child- 6-11 _medium_display_default,netherlands
+25642340,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-family-with-children-oldest-child- 6-11 _medium_instream_default,netherlands
+25641343,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-0-5 _high_audio-outstream_default,netherlands
+25454150,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-0-5 _high_display_default,netherlands
+25642341,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-0-5 _high_instream_default,netherlands
+25641344,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-0-5 _low_audio-outstream_default,netherlands
+25454151,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-0-5 _low_display_default,netherlands
+25642342,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-0-5 _low_instream_default,netherlands
+25641345,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-0-5 _medium_audio-outstream_default,netherlands
+25454152,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-0-5 _medium_display_default,netherlands
+25642344,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-0-5 _medium_instream_default,netherlands
+25641346,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-12-17_high_audio-outstream_default,netherlands
+25454153,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-12-17_high_display_default,netherlands
+25642346,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-12-17_high_instream_default,netherlands
+25641347,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-12-17_low_audio-outstream_default,netherlands
+25454154,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-12-17_low_display_default,netherlands
+25642348,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-12-17_low_instream_default,netherlands
+25641348,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-12-17_medium_audio-outstream_default,netherlands
+25454155,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-12-17_medium_display_default,netherlands
+25642350,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-12-17_medium_instream_default,netherlands
+25641349,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-18+_high_audio-outstream_default,netherlands
+25454156,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-18+_high_display_default,netherlands
+25642352,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-18+_high_instream_default,netherlands
+25641350,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-18+_low_audio-outstream_default,netherlands
+25454157,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-18+_low_display_default,netherlands
+25642354,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-18+_low_instream_default,netherlands
+25641351,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-18+_medium_audio-outstream_default,netherlands
+25454158,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-18+_medium_display_default,netherlands
+25642356,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-family-with-children-oldest-child-18+_medium_instream_default,netherlands
+25641356,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-single-or-couple-without-children-35-49_high_audio-outstream_default,netherlands
+25454162,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-single-or-couple-without-children-35-49_high_display_default,netherlands
+25642364,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-single-or-couple-without-children-35-49_high_instream_default,netherlands
+25641357,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-single-or-couple-without-children-35-49_low_audio-outstream_default,netherlands
+25454163,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-single-or-couple-without-children-35-49_low_display_default,netherlands
+25642367,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-single-or-couple-without-children-35-49_low_instream_default,netherlands
+25641358,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-single-or-couple-without-children-35-49_medium_audio-outstream_default,netherlands
+25454164,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-single-or-couple-without-children-35-49_medium_display_default,netherlands
+25642369,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-single-or-couple-without-children-35-49_medium_instream_default,netherlands
+25641352,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-single-or-couple-without-children-35-_high_audio-outstream_default,netherlands
+25454159,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-single-or-couple-without-children-35-_high_display_default,netherlands
+25642358,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-single-or-couple-without-children-35-_high_instream_default,netherlands
+25641353,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-single-or-couple-without-children-35-_low_audio-outstream_default,netherlands
+25454160,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-single-or-couple-without-children-35-_low_display_default,netherlands
+25642360,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-single-or-couple-without-children-35-_low_instream_default,netherlands
+25641354,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-single-or-couple-without-children-35-_medium_audio-outstream_default,netherlands
+25454161,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-single-or-couple-without-children-35-_medium_display_default,netherlands
+25642362,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-single-or-couple-without-children-35-_medium_instream_default,netherlands
+25641359,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-single-or-couple-without-children-50-64_high_audio-outstream_default,netherlands
+25454165,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-single-or-couple-without-children-50-64_high_display_default,netherlands
+25642371,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-single-or-couple-without-children-50-64_high_instream_default,netherlands
+25641361,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-single-or-couple-without-children-50-64_low_audio-outstream_default,netherlands
+25454166,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-single-or-couple-without-children-50-64_low_display_default,netherlands
+25642372,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-single-or-couple-without-children-50-64_low_instream_default,netherlands
+25641362,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-single-or-couple-without-children-50-64_medium_audio-outstream_default,netherlands
+25454167,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-single-or-couple-without-children-50-64_medium_display_default,netherlands
+25642373,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-single-or-couple-without-children-50-64_medium_instream_default,netherlands
+25641363,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-single-or-couple-without-children-65+_high_audio-outstream_default,netherlands
+25454168,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-single-or-couple-without-children-65+_high_display_default,netherlands
+25642374,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-single-or-couple-without-children-65+_high_instream_default,netherlands
+25641364,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-single-or-couple-without-children-65+_low_audio-outstream_default,netherlands
+25454169,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-single-or-couple-without-children-65+_low_display_default,netherlands
+25642375,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-single-or-couple-without-children-65+_low_instream_default,netherlands
+25641365,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-single-or-couple-without-children-65+_medium_audio-outstream_default,netherlands
+25454170,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-single-or-couple-without-children-65+_medium_display_default,netherlands
+25642376,GroupM NL - GH 6924,6924,gh-nl_non-gps_xandr_gh_specific_household-composition-single-or-couple-without-children-65+_medium_instream_default,netherlands
