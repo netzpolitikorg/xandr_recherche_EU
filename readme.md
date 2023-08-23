@@ -1,7 +1,7 @@
 # Documentation of the Xandr-Investigation by netzpolitik.org
 
 
-This repository contains the core tools used to investigate a [list of Advertisement-segments](https://web.archive.org/web/20230525225839/https://docs.xandr.com/en-US/bundle/monetize_monetize-standard/page/topics/data-marketplace-buyer-overview.html) accidentally published by Xandr/Microsoft on their website. This repository is not active, and only serves to archive our process and allow others to reproduce and expand on our findings. The results of this analysis were published on netzpolitik.org in August of 2023. # TODO: add link.
+This repository contains the core tools used to investigate a [list of Advertisement-segments](https://web.archive.org/web/20230525225839/https://docs.xandr.com/en-US/bundle/monetize_monetize-standard/page/topics/data-marketplace-buyer-overview.html) accidentally published by Xandr/Microsoft on their website. This repository is not active, and only serves to archive our process and allow others to reproduce and expand on our findings. The results of this analysis were [published on netzpolitik.org in August of 2023](https://netzpolitik.org/2023/europa-vergleich-wie-eng-uns-datenhaendler-auf-die-pelle-ruecken).
 
 
 In this document, we will briefly cover the process that we employed in our data analysis and explain the content of the repository:
